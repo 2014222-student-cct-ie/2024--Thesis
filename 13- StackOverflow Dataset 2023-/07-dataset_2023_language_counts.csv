@@ -1,0 +1,273 @@
+Year,Language,Count
+2023,Visual Studio Code,29125
+2023,JavaScript,27667
+2023,Docker,22970
+2023,HTML/CSS,22734
+2023,npm,22513
+2023,SQL,22486
+2023,TypeScript,19367
+2023,Python,19322
+2023,Amazon Web Services (AWS,19263
+2023,PostgreSQL,19231
+2023,Node.js,17705
+2023,React,16708
+2023,MySQL,16370
+2023,C#,14600
+2023,Visual Studio,13613
+2023,Java,13578
+2023,Bash/Shell (all shells,13111
+2023,SQLite,13054
+2023,Microsoft Azure,12704
+2023,Pip,12470
+2023,IntelliJ IDEA,12389
+2023,Microsoft SQL Server,12210
+2023,MongoDB,12194
+2023,NET (5+,11671
+2023,Notepad++,10573
+2023,Yarn,10372
+2023,Google Cloud,10065
+2023,Redis,10015
+2023,Webpack,9702
+2023,Kubernetes,9694
+2023,Homebrew,9548
+2023,ASP.NET CORE,9246
+2023,jQuery,9059
+2023,NuGet,9007
+2023,Vim,8837
+2023,Android Studio,8620
+2023,Express,8501
+2023,Angular,8245
+2023,C++,7884
+2023,NumPy,7790
+2023,PHP,7782
+2023,Pandas,7731
+2023,NET Framework (1.0 - 4.8,7518
+2023,Make,7412
+2023,MariaDB,7278
+2023,Maven (build tool,7250
+2023,PowerShell,7236
+2023,Next.js,7106
+2023,Gradle,7101
+2023,Firebase,7019
+2023,Visual Studio Solution,6995
+2023,C,6939
+2023,ASP.NET,6910
+2023,Vue.js,6848
+2023,Elasticsearch,6762
+2023,Vite,6705
+2023,Cloudflare,6622
+2023,PyCharm,6487
+2023,Jupyter Notebook/JupyterLab,6172
+2023,Go,6120
+2023,Spring Boot,6018
+2023,Flask,5833
+2023,MSBuild,5771
+2023,Digital Ocean,5765
+2023,RabbitMQ,5738
+2023,Terraform,5643
+2023,Spring Framework,5608
+2023,Sublime Text,5464
+2023,Heroku,5365
+2023,Rust,5283
+2023,WordPress,5254
+2023,CMake,5154
+2023,Django,5128
+2023,Cargo,5001
+2023,React Native,4830
+2023,Xcode,4806
+2023,Neovim,4621
+2023,Apache Kafka,4616
+2023,Eclipse,4560
+2023,Vercel,4519
+2023,Chocolatey,4466
+2023,Kotlin,4453
+2023,Flutter,4430
+2023,Nano,4376
+2023,Dynamodb,4366
+2023,TensorFlow,4124
+2023,Oracle,4030
+2023,WebStorm,3916
+2023,Ansible,3880
+2023,GNU GCC,3863
+2023,FastAPI,3782
+2023,Electron,3743
+2023,Scikit-Learn,3690
+2023,Netlify,3654
+2023,Torch/PyTorch,3617
+2023,AngularJS,3530
+2023,Dart,3468
+2023,Cloud Firestore,3424
+2023,Opencv,3417
+2023,Rider,3381
+2023,Firebase Realtime Database,3318
+2023,Composer,3254
+2023,VMware,3206
+2023,APT,3076
+2023,Unity 3D,3054
+2023,DataGrip,2979
+2023,pnpm,2967
+2023,Laravel,2878
+2023,Svelte,2838
+2023,Blazor,2818
+2023,PhpStorm,2703
+2023,Atom,2693
+2023,OpenGL,2634
+2023,Ruby,2599
+2023,Pacman,2564
+2023,Lua,2549
+2023,NestJS,2386
+2023,LLVM's Clang,2271
+2023,Cosmos DB,2240
+2023,Qt,2217
+2023,IPython,2201
+2023,CLion,2178
+2023,Swift,2163
+2023,Visual Basic (.Net,2161
+2023,Assembly,2119
+2023,BigQuery,2081
+2023,Ruby on Rails,2033
+2023,H2,1937
+2023,Hetzner,1889
+2023,Apache Spark,1879
+2023,Microsoft Access,1826
+2023,Keras,1760
+2023,Podman,1752
+2023,Ionic,1701
+2023,R,1698
+2023,Groovy,1693
+2023,Linode,1684
+2023,now Akamai,1684
+2023,CUDA,1683
+2023,Xamarin,1672
+2023,Emacs,1670
+2023,Netbeans,1649
+2023,Nuxt.js,1620
+2023,Goland,1604
+2023,Managed Hosting,1595
+2023,SwiftUI,1582
+2023,VSCodium,1579
+2023,OVH,1554
+2023,MSVC,1539
+2023,MATLAB,1488
+2023,VBA,1478
+2023,Ant,1409
+2023,Supabase,1383
+2023,Unreal Engine,1373
+2023,Cordova,1368
+2023,Cassandra,1342
+2023,InfluxDB,1318
+2023,Scala,1294
+2023,Hugging Face Transformers,1278
+2023,Godot,1267
+2023,Symfony,1230
+2023,OpenShift,1164
+2023,NET MAUI,1152
+2023,Tauri,1151
+2023,Deno,1139
+2023,Objective-C,1107
+2023,Snowflake,1094
+2023,Hadoop,1089
+2023,Ninja,1087
+2023,RStudio,1075
+2023,Gatsby,1068
+2023,Code::Blocks,1051
+2023,Fleet,1048
+2023,Oracle Cloud Infrastructure (OCI,1047
+2023,Elixir,1037
+2023,Fastify,1002
+2023,Neo4J,992
+2023,Capacitor,983
+2023,Qt Creator,983
+2023,Perl,951
+2023,Fly.io,937
+2023,GTK,907
+2023,Delphi,855
+2023,Haskell,839
+2023,IBM DB2,819
+2023,Vultr,807
+2023,Drupal,766
+2023,Phoenix,763
+2023,Solr,759
+2023,Render,758
+2023,Google Test,757
+2023,Nix,748
+2023,Solidity,742
+2023,CodeIgniter,716
+2023,GDScript,697
+2023,OpenStack,690
+2023,Couch DB,643
+2023,Solid.js,630
+2023,Quarkus,618
+2023,Kate,610
+2023,Spyder,606
+2023,RubyMine,600
+2023,Helix,592
+2023,F#,591
+2023,Lisp,586
+2023,Puppet,562
+2023,Remix,557
+2023,IBM Cloud Or Watson,546
+2023,Cockroachdb,545
+2023,Rad Studio (Delphi,503
+2023,C++ Builder,503
+2023,Clojure,502
+2023,Ktor,501
+2023,Chef,484
+2023,Clickhouse,478
+2023,Erlang,470
+2023,QMake,465
+2023,Firebird,456
+2023,Meson,450
+2023,Pulumi,437
+2023,Bun,435
+2023,Prolog,432
+2023,Dagger,427
+2023,JAX,419
+2023,Julia,410
+2023,Couchbase,410
+2023,Tidyverse,405
+2023,Scaleway,400
+2023,Geany,386
+2023,Play Framework,358
+2023,MFC,352
+2023,Micronaut,351
+2023,BBEdit,345
+2023,Zig,339
+2023,TextMate,338
+2023,Fortran,338
+2023,Elm,332
+2023,Colocation,325
+2023,DuckDB,308
+2023,Lit,300
+2023,Wasmer,288
+2023,Cobol,281
+2023,Apex,264
+2023,Micro,263
+2023,Ada,262
+2023,Qwik,255
+2023,OCaml,244
+2023,Crystal,226
+2023,Uno Platform,226
+2023,bandit,206
+2023,SAS,199
+2023,doctest,189
+2023,RavenDB,187
+2023,Catch2,185
+2023,Nim,178
+2023,cppunit,159
+2023,Boost.Test,152
+2023,SCons,151
+2023,Datomic,131
+2023,Nova,128
+2023,Flow,121
+2023,APL,116
+2023,condo,104
+2023,TiDB,99
+2023,build2,94
+2023,Raku,67
+2023,tunit,53
+2023,ELFspy,39
+2023,snitch,39
+2023,lest,37
+2023,CUTE,36
+2023,liblittletest,31
