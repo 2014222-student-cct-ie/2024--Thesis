@@ -1,0 +1,265 @@
+Year,Language,Count,Category
+2011,SQL,1615,Scripting Language
+2011,JavaScript,1421,Programming Language
+2011,CSS,1357,Markup Language
+2011,C#,1353,Programming Language
+2011,Java,911,Programming Language
+2011,PHP,789,Programming Language
+2011,C,742,Programming Language
+2011,C++,741,Programming Language
+2011,Python,576,Programming Language
+2011,Ruby,287,Programming Language
+2011,Perl,285,Programming Language
+2011,Objective-C,64,Programming Language
+2011,Delphi,48,Programming Language
+2011,VB.NET,35,Programming Language
+2011,VB,29,other
+2011,Haskell,21,Programming Language
+2011,None,21,other
+2011,vb.net,17,other
+2011,Scala,15,Programming Language
+2011,HTML,15,Markup Language
+2011,ActionScript,15,Programming Language
+2011,Objective C,14,other
+2011,VB.Net,13,other
+2011,ColdFusion,12,other
+2011,F#,11,Programming Language
+2011,bash,11,other
+2011,Groovy,9,Programming Language
+2011,Prolog,9,Programming Language
+2011,VBA,9,Scripting Language
+2011,R,8,Programming Language
+2011,Lisp,7,Programming Language
+2011,VB6,7,other
+2011,XSLT,7,Scripting Language
+2011,Lua,7,Programming Language
+2011,PowerShell,6,Scripting Language
+2011,objective-c,6,other
+2011,LabVIEW,6,Tools
+2011,java,5,other
+2011,Assembly,5,Programming Language
+2011,Common Lisp,5,other
+2011,vb,5,other
+2011,coldfusion,4,other
+2011,AS3,4,other
+2011,Clojure,4,Programming Language
+2011,COBOL,4,Programming Language
+2011,lua,4,other
+2011,delphi,4,other
+2011,Flex,4,Frameworks
+2011,Visual Basic,4,Programming Language
+2011,VBScript,4,Scripting Language
+2011,Object Pascal,4,Programming Language
+2011,Scheme,4,Programming Language
+2011,ASP,4,other
+2011,shell,3,other
+2011,scala,3,other
+2011,asp.net,3,other
+2011,FORTRAN,3,other
+2011,MATLAB,3,Programming Language
+2011,VB.net,3,other
+2011,awk,3,other
+2011,Fortran,3,Programming Language
+2011,Bash,3,Scripting Language
+2011,Tcl,3,Scripting Language
+2011,Assembler,3,other
+2011,PL/SQL,3,Scripting Language
+2011,Coldfusion,3,other
+2011,f#,3,other
+2011,groovy,3,other
+2011,RPG,3,Programming Language
+2011,Erlang,3,Programming Language
+2011,Ada,3,Programming Language
+2011,objective c,3,other
+2011,html,3,other
+2011,VB 6,3,other
+2011,Smalltalk,3,Programming Language
+2011,VB .NET,2,other
+2011,ObjectiveC,2,other
+2011,rexx,2,other
+2011,vba,2,other
+2011,Visual Basic .NET,2,other
+2011,ABAP,2,Programming Language
+2011,lisp,2,other
+2011,English,2,other
+2011,powershell,2,other
+2011,tcl,2,other
+2011,Shell,2,Scripting Language
+2011,BASIC,2,Programming Language
+2011,MatLab,2,other
+2011,fortran,2,other
+2011,IDL,2,Programming Language
+2011,PowerBuilder,2,Programming Language
+2011,Objective-c,2,other
+2011,visual basic,2,other
+2011,Mathematica,2,other
+2011,ocaml,2,other
+2011,JAVA,2,other
+2011,VHDL,2,Programming Language
+2011,scheme,2,other
+2011,Flash,2,other
+2011,Silverlight,2,Frameworks
+2011,Obj-c,2,other
+2011,Matlab,2,other
+2011,actionscript,2,other
+2011,LaTeX,2,Markup Language
+2011,JSP,2,Web Frameworks
+2011,XML,2,Markup Language
+2011,Actionscript 3,2,other
+2011,OCaml,2,Programming Language
+2011,LISP,2,other
+2011,classic asp (vbscript,1,other
+2011,UniQuery,1,other
+2011,MATLAb,1,other
+2011,xhtml,1,other
+2011,ARM assembly,1,other
+2011,Sybase Powerbuilder,1,other
+2011,UniBasic,1,other
+2011,linc 4gl,1,other
+2011,Network,1,other
+2011,D,1,Programming Language
+2011,many,1,other
+2011,XAML,1,Markup Language
+2011,Grails,1,Web Frameworks
+2011,anything,1,other
+2011,AutoHotkey,1,Scripting Language
+2011,AWK,1,Scripting Language
+2011,,1,other
+2011,actionscript 3,1,other
+2011,vb6,1,other
+2011,clojure,1,other
+2011,flex,1,other
+2011,make,1,other
+2011,assembly language,1,other
+2011,CFML,1,other
+2011,NumPy,1,other
+2011,cobol,1,other
+2011,ccScript,1,other
+2011,Classic ASP,1,other
+2011,J,1,Programming Language
+2011,Vala,1,Programming Language
+2011,Klingon,1,other
+2011,latex,1,other
+2011,Turbo Pascal 5.5 (no,1,other
+2011,seriously,1,other
+2011,python,1,other
+2011,php,1,other
+2011,AS1-3,1,other
+2011,cocoa,1,other
+2011,X3D,1,other
+2011,NET,1,other
+2011,Realbasic,1,other
+2011,JAVA (shame on you for not having it on the list,1,other
+2011,haskell,1,other
+2011,pl/sql,1,other
+2011,You need a box for OS=UNIX Ã,1,other
+2011,Java (shocked this wasn't in the survey,1,other
+2011,KRL,1,other
+2011,shel scripting,1,other
+2011,Object Pascal (Delphi,1,other
+2011,eiffel,1,other
+2011,Brainfuck,1,other
+2011,Powershell,1,other
+2011,vbscript,1,other
+2011,Verilog,1,Programming Language
+2011,XPATH XSLT,1,other
+2011,CSS is not a programming language,1,other
+2011,VB (why the fuck was this not a choice? C# snobs?,1,other
+2011,Wasabi,1,other
+2011,SAS Datastep,1,other
+2011,z/Assembler,1,other
+2011,JMP Scripting Language,1,other
+2011,Befunge,1,other
+2011,AutoIt,1,Tools
+2011,VB.NET and proud of it,1,other
+2011,gosu,1,other
+2011,bash tcl objective-c,1,other
+2011,FoxPro,1,other
+2011,LANSA,1,other
+2011,sed,1,Scripting Language
+2011,X86 Assembly,1,other
+2011,JavaScript (incl. jQuery,1,other
+2011,excel,1,other
+2011,Objective-C (OSX,1,other
+2011,more,1,other
+2011,Objective-C 2.0,1,other
+2011,ActionScript3,1,other
+2011,vb6 vb.net,1,other
+2011,"""Proficient"" seems too rosey a word for it",1,other
+2011,Objectve C,1,other
+2011,Symfony,1,Web Frameworks
+2011,Adobe Flex,1,other
+2011,Android,1,Platforms
+2011,Vb,1,other
+2011,ActionScript 3.0,1,other
+2011,prolog,1,other
+2011,assembler,1,other
+2011,VBscript,1,other
+2011,Cocoa,1,Platforms
+2011,lotusscript,1,other
+2011,"lisp,scheme,clojure,bash",1,other
+2011,WebFOCUS,1,other
+2011,WPF,1,Frameworks
+2011,matlab,1,other
+2011,Objective c,1,other
+2011,R; VBA,1,other
+2011,Maple bash,1,other
+2011,Visual Dataflex,1,other
+2011,If CSS is a language,1,other
+2011,surely so is HTML?,1,other
+2011,jQuery,1,Libraries
+2011,Scala and so on,1,other
+2011,ASP Classic,1,other
+2011,VB/VBScript,1,other
+2011,GeneXus,1,other
+2011,Applescript,1,other
+2011,xml,1,other
+2011,foxpro,1,other
+2011,bash scripting,1,other
+2011,Entity-Framework,1,other
+2011,sh,1,other
+2011,progress abl,1,other
+2011,"Haskell,Scheme",1,other
+2011,objective -c,1,other
+2011,Assembler (x86 and win32,1,other
+2011,Maya MEL,1,other
+2011,Actionscrip,1,other
+2011,VB.NET!,1,other
+2011,Forte 4GL,1,other
+2011,asp.net c#,1,other
+2011,Basic,1,other
+2011,Webfocus,1,other
+2011,TCL,1,other
+2011,Actionscript,1,other
+2011,Nemerle,1,other
+2011,ksh,1,other
+2011,SAS,1,Scripting Language
+2011,xslt,1,other
+2011,Groovy Haskell,1,other
+2011,LOLCODE,1,other
+2011,Visual Basic.NET,1,other
+2011,vb. technologies: asp.net,1,other
+2011,wpf,1,other
+2011,wcf,1,other
+2011,vb/ vba,1,other
+2011,Various,1,other
+2011,VB ASP.NET,1,other
+2011,Go,1,Programming Language
+2011,LSL,1,other
+2011,Objective-C (how is this not a choice,1,other
+2011,"F#,VB6",1,other
+2011,asp.net-mvc,1,other
+2011,ASP 3.0,1,other
+2011,ada,1,other
+2011,name it,1,other
+2011,Shell Scripting,1,other
+2011,x86 assembler OO-pascal,1,other
+2011,Pascal,1,Programming Language
+2011,other (please specify,1,other
+2011,R VB,1,other
+2011,obj-c,1,other
+2011,BASH,1,other
+2011,jquery,1,other
+2011,Objective-C (how dare you leave that out)! :-P,1,other
+2011,Classic VB,1,other
+2011,Avisynth,1,other
