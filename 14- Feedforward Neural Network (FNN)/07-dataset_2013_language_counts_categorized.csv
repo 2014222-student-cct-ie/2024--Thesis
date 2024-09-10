@@ -1,0 +1,709 @@
+Year,Language,Count,Category
+2013,JavaScript,4741,Programming Language
+2013,SQL,4595,Scripting Language
+2013,jQuery,4111,Frameworks
+2013,C#,3028,Programming Language
+2013,Java,3021,Programming Language
+2013,PHP,2329,Programming Language
+2013,Python,1883,Programming Language
+2013,C++,1697,Programming Language
+2013,C,1437,Programming Language
+2013,Objective-C,956,Programming Language
+2013,Ruby,795,Programming Language
+2013,Node.js,600,Frameworks
+2013,JQuery,241,other
+2013,Perl,148,Programming Language
+2013,R,80,Programming Language
+2013,VB.NET,78,Programming Language
+2013,Delphi,73,Programming Language
+2013,Scala,71,Programming Language
+2013,Haskell,58,Programming Language
+2013,HTML,50,Markup Language
+2013,CSS,46,Markup Language
+2013,VBA,33,Scripting Language
+2013,perl,32,other
+2013,Groovy,31,Programming Language
+2013,Matlab,31,other
+2013,Lua,30,Programming Language
+2013,CoffeeScript,28,Programming Language
+2013,vb.net,27,other
+2013,bash,26,other
+2013,VB,25,other
+2013,Clojure,24,Programming Language
+2013,ColdFusion,24,other
+2013,F#,22,Programming Language
+2013,VB.Net,19,other
+2013,MongoDB,19,Databases
+2013,Bash,18,Scripting Language
+2013,XML,18,Markup Language
+2013,VB6,18,other
+2013,Powershell,17,other
+2013,Mathematica,17,other
+2013,ActionScript,16,other
+2013,scala,16,other
+2013,Fortran,15,Programming Language
+2013,PL/SQL,15,Scripting Language
+2013,MATLAB,15,other
+2013,ABAP,14,Programming Language
+2013,groovy,14,other
+2013,Erlang,14,Programming Language
+2013,Visual Basic,14,Programming Language
+2013,Go,14,Programming Language
+2013,Dojo,13,Frameworks
+2013,XSLT,13,Markup Language
+2013,matlab,13,other
+2013,ASP.NET,12,Frameworks
+2013,clojure,12,other
+2013,MySQL,12,Databases
+2013,Flex,10,Frameworks
+2013,Android,10,Platforms
+2013,SAS,9,other
+2013,PowerShell,9,Scripting Language
+2013,haskell,9,other
+2013,WPF,9,Frameworks
+2013,css,9,other
+2013,Actionscript,9,other
+2013,HTML5,9,Markup Language
+2013,html,8,other
+2013,Coldfusion,8,other
+2013,mongodb,8,other
+2013,ASP,8,other
+2013,shell,8,other
+2013,ExtJS,8,Frameworks
+2013,CSS3,8,Markup Language
+2013,Assembly,7,other
+2013,GWT,7,Frameworks
+2013,Grails,7,Frameworks
+2013,Lisp,7,Programming Language
+2013,CUDA,7,other
+2013,Silverlight,7,Frameworks
+2013,Ada,7,Programming Language
+2013,AngularJS,7,Web Frameworks
+2013,Common Lisp,7,other
+2013,Django,7,Web Frameworks
+2013,VB.net,6,other
+2013,lisp,6,other
+2013,Classic ASP,6,other
+2013,VBScript,6,Scripting Language
+2013,XAML,6,Markup Language
+2013,vb,6,other
+2013,delphi,6,other
+2013,Pascal,5,Programming Language
+2013,X++,5,other
+2013,erlang,5,other
+2013,Coffeescript,5,other
+2013,shell script,5,other
+2013,D,5,Programming Language
+2013,Redis,5,Databases
+2013,powershell,5,other
+2013,awk,5,other
+2013,JSF,5,Frameworks
+2013,COBOL,5,Programming Language
+2013,SSIS,5,other
+2013,AS3,5,other
+2013,LaTeX,5,Markup Language
+2013,BASH,5,other
+2013,Rails,4,Web Frameworks
+2013,asp.net,4,other
+2013,Smalltalk,4,Programming Language
+2013,flex,4,other
+2013,VHDL,4,other
+2013,lua,4,other
+2013,make,4,other
+2013,OCaml,4,Programming Language
+2013,go,4,other
+2013,Backbone,4,other
+2013,Prolog,4,Programming Language
+2013,vba,4,other
+2013,asp,4,other
+2013,PERL,4,other
+2013,vb6,4,other
+2013,vbscript,4,other
+2013,PhoneGap,4,Frameworks
+2013,Mongo,3,other
+2013,Racket,3,other
+2013,mysql,3,other
+2013,silverlight,3,other
+2013,Assembler,3,other
+2013,less,3,other
+2013,VB .NET,3,other
+2013,SSRS,3,other
+2013,Javascript,3,other
+2013,Ruby on Rails,3,Frameworks
+2013,xquery,3,other
+2013,Shell,3,Scripting Language
+2013,Backbone.js,3,Web Frameworks
+2013,r,3,other
+2013,assembler,3,other
+2013,MVC,3,other
+2013,Groovy/Grails,3,other
+2013,Verilog,3,other
+2013,Qt,3,other
+2013,fortran,3,other
+2013,TypeScript,3,other
+2013,XSL,3,other
+2013,coldfusion,3,other
+2013,Scheme,3,Programming Language
+2013,knockoutjs,3,other
+2013,MDX,3,other
+2013,LESS,2,other
+2013,Cobol,2,other
+2013,SAP ABAP,2,other
+2013,nginx,2,other
+2013,hibernate,2,other
+2013,knockout,2,other
+2013,Railo,2,other
+2013,JSON,2,other
+2013,vhdl,2,other
+2013,AJAX,2,other
+2013,Java EE,2,other
+2013,RPGLE,2,other
+2013,XPath,2,other
+2013,grails,2,other
+2013,HTML/CSS,2,other
+2013,Visual Basic .net,2,other
+2013,APEX,2,other
+2013,CFML,2,other
+2013,Visual FoxPro,2,other
+2013,Telerik,2,other
+2013,Underscore.js,2,Libraries
+2013,Zend Framework,2,Web Frameworks
+2013,sas,2,other
+2013,angularjs,2,other
+2013,Linux,2,other
+2013,Puppet,2,Tools
+2013,Android SDK,2,other
+2013,Oracle,2,Databases
+2013,NoSQL,2,Databases
+2013,Spring,2,Frameworks
+2013,Nemerle,2,other
+2013,Octave,2,other
+2013,FORTRAN,2,other
+2013,tcl,2,other
+2013,JADE,2,other
+2013,ExtJs,2,other
+2013,SPARQL,2,other
+2013,Play Framework 2,2,other
+2013,C++/CLI,2,other
+2013,"HTML,XHTML,CSS",2,other
+2013,actionscript,2,other
+2013,Salesforce Apex,2,other
+2013,Cold Fusion,2,other
+2013,Dart,2,Programming Language
+2013,coffescript,2,other
+2013,elisp,2,other
+2013,PostgreSQL,2,Databases
+2013,d3.js,2,other
+2013,neo4j,2,other
+2013,golang,2,other
+2013,BASIC,2,other
+2013,Labview,2,other
+2013,knockout.js,2,other
+2013,XQuery,2,other
+2013,Cache Object Script,2,other
+2013,ZK,2,other
+2013,python,2,other
+2013,coffeescript,2,other
+2013,Postscript,2,other
+2013,classic asp,2,other
+2013,Drupal,2,Web Frameworks
+2013,dojo,2,other
+2013,bash shell scripting,2,other
+2013,plpgsql,2,other
+2013,CouchDB,2,Databases
+2013,LINQ,2,Frameworks
+2013,OpenEdge,2,other
+2013,REXX,2,Scripting Language
+2013,Tcl,2,other
+2013,jquery,2,other
+2013,APL,2,Programming Language
+2013,mootools,2,other
+2013,ASP.NET MVC,2,Web Frameworks
+2013,LISP,2,other
+2013,Delphi Pascal,2,other
+2013,xml,2,other
+2013,Forth,2,Programming Language
+2013,f#,2,other
+2013,ActionScript 3,2,other
+2013,MooTools,2,Libraries
+2013,Object Pascal,2,other
+2013,Ajax,2,other
+2013,Delphi (Pascal,2,other
+2013,net,2,other
+2013,Underscore,2,other
+2013,extjs,2,other
+2013,Brightscript,2,other
+2013,MEL,2,other
+2013,LabVIEW,2,Tools
+2013,Action Script,2,other
+2013,PowerOn (Symitar Report Generator,1,other
+2013,Brainfuck,1,other
+2013,cuda,1,other
+2013,Dutch,1,other
+2013,vba and vb.net,1,other
+2013,actionscript/flex,1,other
+2013,Android if that counts,1,other
+2013,sbcl,1,other
+2013,Windows/DOS batch,1,other
+2013,iOS dev,1,other
+2013,Unix,1,other
+2013,FAST Search,1,other
+2013,Kylix,1,other
+2013,LDAP,1,other
+2013,RequireJS,1,other
+2013,Standard ML,1,other
+2013,Maple,1,other
+2013,DB2,1,Databases
+2013,baby!,1,other
+2013,html5,1,other
+2013,You mom,1,other
+2013,PARI/GP,1,other
+2013,VB.net Asp.net,1,other
+2013,The list goes on and on,1,other
+2013,SCADA,1,other
+2013,prolog,1,other
+2013,sh,1,other
+2013,DCL,1,other
+2013,Lotus/Domino-related,1,other
+2013,qlikview,1,other
+2013,APEX(salesforce,1,other
+2013,Assembly (x86); C++11,1,other
+2013,VB6/VBA,1,other
+2013,BASH SCRIPTING,1,other
+2013,Xtend,1,other
+2013,jmeter,1,other
+2013,RavenDb,1,other
+2013,csh perl,1,other
+2013,CMake,1,other
+2013,Freepascal and Lazarus IDE,1,other
+2013,Visual Dataflex,1,other
+2013,CMS,1,other
+2013,aspx,1,other
+2013,j2me,1,other
+2013,Pawn,1,other
+2013,MonoTouch,1,other
+2013,git,1,other
+2013,Shellscript,1,other
+2013,forth,1,other
+2013,Google App Engine,1,Platforms
+2013,Excel,1,other
+2013,Peoplesoft,1,other
+2013,Bash scripting,1,other
+2013,VB.NET > c#,1,other
+2013,Modula-2,1,other
+2013,Rust,1,other
+2013,WCF,1,other
+2013,Intel assembly,1,other
+2013,Excel VBA,1,other
+2013,SVG,1,Markup Language
+2013,flash actionscript,1,other
+2013,sybase,1,other
+2013,shell scripting,1,other
+2013,Hscript,1,other
+2013,PLSQL,1,other
+2013,Visual Basic .NET,1,other
+2013,labview,1,other
+2013,groovy/grails,1,other
+2013,RealBasic,1,other
+2013,Fortran90,1,other
+2013,Structured Query Reporting (a semi-proprietary PeopleSoft language,1,other
+2013,RealStudio,1,other
+2013,C#.NET,1,other
+2013,z/Assembler,1,other
+2013,Classic REXX,1,other
+2013,CL (IBM i,1,other
+2013,DB2 for i,1,other
+2013,RPG-IV,1,other
+2013,x86 Assembly,1,other
+2013,Game-specific assembly,1,other
+2013,AppleScript,1,other
+2013,QML,1,other
+2013,Ubercode,1,other
+2013,VB.Net!,1,other
+2013,Shell Script,1,other
+2013,Perl R,1,other
+2013,Bash Scripting,1,other
+2013,Talend DI (ETL,1,other
+2013,RoR,1,other
+2013,Magento,1,other
+2013,Progress,1,other
+2013,VBA;VB.NET,1,other
+2013,Semantic web,1,other
+2013,Scala / Typesafe Stack,1,other
+2013,crm,1,other
+2013,haml (if that counts,1,other
+2013,proprietary,1,other
+2013,PrototypeJS,1,other
+2013,Windows Services,1,other
+2013,WinForms,1,other
+2013,C# Razor / MVC,1,other
+2013,ECMAScript,1,other
+2013,Shell scripting (bash,1,other
+2013,bash/sh shell scripting,1,other
+2013,WebServices,1,other
+2013,dart,1,other
+2013,Ab Initio,1,other
+2013,assembly,1,other
+2013,CB.Net,1,other
+2013,Asp.Net WPF,1,other
+2013,OpenLaszlo,1,other
+2013,msbuild,1,other
+2013,NoSQL (MongoDB,1,other
+2013,VB6 .... yeah I know,1,other
+2013,haskell prolog,1,other
+2013,Prototype,1,other
+2013,Scriptaculous,1,other
+2013,Force.com,1,other
+2013,VB6 baby!,1,other
+2013,Lucene,1,other
+2013,zsh,1,other
+2013,bash scripts,1,other
+2013,Ladder,1,other
+2013,ADA,1,other
+2013,YII,1,other
+2013,Fortran 90/95,1,other
+2013,jayQuery,1,other
+2013,Meteor,1,Web Frameworks
+2013,yui,1,other
+2013,Windows Phone 7,1,other
+2013,Gupta Team Developer,1,other
+2013,"Mongodb,Redis",1,other
+2013,Bash/sh,1,other
+2013,"Groovy,Bash",1,other
+2013,Windev,1,other
+2013,x86 assembly,1,other
+2013,KnockoutJS,1,other
+2013,smalltalk,1,other
+2013,Prolog and Scala,1,other
+2013,regergerg,1,other
+2013,Jython,1,other
+2013,Knockout,1,Web Frameworks
+2013,SVN,1,Tools
+2013,GIT,1,other
+2013,soap,1,other
+2013,bpel,1,other
+2013,xml stack: xslt,1,other
+2013,Sencha Touch 2,1,other
+2013,if that is a language or technology,1,other
+2013,Jquery ;p (you have j and Jquery listed,1,other
+2013,DAX,1,other
+2013,Basic,1,other
+2013,Filemaker,1,other
+2013,Monitorscript,1,other
+2013,Elasticsearch,1,other
+2013,PowerBuilder,1,other
+2013,Verilog 2001,1,other
+2013,Informatica PowerCenter,1,other
+2013,Ruby On Rails,1,other
+2013,AVR Assembly,1,other
+2013,Fantom,1,other
+2013,god help me,1,other
+2013,jQueryMobile,1,other
+2013,OpenMP,1,other
+2013,Ubuntu,1,other
+2013,BizTalk,1,other
+2013,C++/CLR,1,other
+2013,RPG,1,other
+2013,OBEL,1,other
+2013,phing,1,other
+2013,capistrano,1,other
+2013,ASP (Classic,1,other
+2013,shell scripts,1,other
+2013,WiX,1,other
+2013,oCaml,1,other
+2013,Abap,1,other
+2013,Perl baby,1,other
+2013,etc,1,other
+2013,Delphi Prism,1,other
+2013,COM,1,other
+2013,Solr,1,other
+2013,Mootools,1,other
+2013,X86 assembler,1,other
+2013,Bro IDS,1,other
+2013,REL,1,other
+2013,Vb,1,other
+2013,Visual Basic.NET,1,other
+2013,Julia,1,Programming Language
+2013,TeX,1,other
+2013,batch,1,other
+2013,Oracle RPAS,1,other
+2013,Databasic,1,other
+2013,RapidMiner 5.2,1,other
+2013,ASP Classic/VBScript,1,other
+2013,Not eXactly C,1,other
+2013,Pig on Hadoop,1,other
+2013,CLojure,1,other
+2013,"XSLT,Freemarker,ActionScript,MXML,Shell,Apache",1,other
+2013,jQuery again,1,other
+2013,Spring framework,1,other
+2013,octave,1,other
+2013,C/AL,1,other
+2013,Asterisk,1,other
+2013,PARLANSE,1,other
+2013,AIR,1,other
+2013,Memcache,1,other
+2013,solr,1,other
+2013,couchdb,1,other
+2013,html 5,1,other
+2013,UML,1,other
+2013,Symfony 2,1,other
+2013,Assembly(specifically asm32 and ARM based asm,1,other
+2013,MySql,1,other
+2013,AWS,1,other
+2013,Igor Pro,1,other
+2013,Why are technologies node & jQuery on a languages question?,1,other
+2013,perl html5 css,1,other
+2013,assembly:D,1,other
+2013,csh,1,other
+2013,phonegap,1,other
+2013,Xml/XSLT/Xml Schema,1,other
+2013,SQLite,1,Databases
+2013,T-SQL,1,Scripting Language
+2013,small talk,1,other
+2013,cfml,1,other
+2013,Windows batch scripting,1,other
+2013,Razor,1,other
+2013,J,1,other
+2013,Oracle PL/SQL,1,other
+2013,clojure. go,1,other
+2013,ActionScript3,1,other
+2013,spring,1,other
+2013,ASP.Net,1,other
+2013,actionscript-3,1,other
+2013,objective-j/cappuccino,1,other
+2013,1C,1,other
+2013,brainfuck,1,other
+2013,Velocity,1,other
+2013,My SQL,1,other
+2013,COMSOL,1,other
+2013,ASPX,1,other
+2013,VB.Net; VB6,1,other
+2013,SML,1,other
+2013,Visual Basic (for MS Access,1,other
+2013,Turbo Pascal,1,other
+2013,flash air,1,other
+2013,Lotus Notes,1,other
+2013,titanium,1,other
+2013,pml,1,other
+2013,vbs,1,other
+2013,OpenERP,1,other
+2013,vxml,1,other
+2013,Common-Lisp,1,other
+2013,x86 assembler,1,other
+2013,ASM-ARM,1,other
+2013,BPMN,1,other
+2013,YUI,1,other
+2013,prolly more,1,other
+2013,SystemVerilog,1,other
+2013,Visual Basic .NET (Why do I always get left out!!!,1,other
+2013,NOSQL,1,other
+2013,Vb.net,1,other
+2013,bee,1,other
+2013,common-lisp,1,other
+2013,Blackberry SDK,1,other
+2013,SisoDB,1,other
+2013,bash and perl,1,other
+2013,why do you guys keep rejecting existence of this language?,1,other
+2013,JSP,1,other
+2013,adobe flex and adobe air,1,other
+2013,Ext JS,1,other
+2013,sahell scripting,1,other
+2013,Lazarus Pascal,1,other
+2013,LISP R,1,other
+2013,MS SQL,1,other
+2013,LotusScript,1,other
+2013,SDL Tridion,1,other
+2013,IronPython,1,other
+2013,GXT,1,other
+2013,sass,1,other
+2013,ext.core,1,other
+2013,abap,1,other
+2013,Css,1,other
+2013,Html,1,other
+2013,Sencha,1,other
+2013,hardware,1,other
+2013,Mongodb,1,other
+2013,GRASS,1,other
+2013,Nimrod,1,other
+2013,ASM,1,other
+2013,action script 3,1,other
+2013,Closure,1,other
+2013,plsql,1,other
+2013,Asp.Net MVC,1,other
+2013,Asp.Net,1,other
+2013,Flash,1,other
+2013,Google Apps Script,1,other
+2013,LabView,1,other
+2013,Pro-IV,1,other
+2013,google app engine,1,other
+2013,codeigniter,1,other
+2013,AutoIT,1,other
+2013,vim,1,other
+2013,Plone,1,other
+2013,Perl (It's got some nice regex,1,other
+2013,VB/VBA,1,other
+2013,Cassandra,1,Databases
+2013,Oracle DB,1,other
+2013,maven,1,other
+2013,mongo DB,1,other
+2013,mathematica,1,other
+2013,Haxe,1,other
+2013,Soy,1,other
+2013,Freemarker,1,other
+2013,MySql / VbScript,1,other
+2013,Other (please specify,1,other
+2013,"html,ajax",1,other
+2013,MongoDB Qt,1,other
+2013,GLSL,1,other
+2013,BashScript,1,other
+2013,JavaFX,1,other
+2013,zk,1,other
+2013,Urbiscript,1,other
+2013,pascal,1,other
+2013,Common LISP,1,other
+2013,Ember.js,1,Web Frameworks
+2013,memcached,1,other
+2013,redis,1,other
+2013,rc,1,other
+2013,Bourne shell,1,other
+2013,PrimeFaces,1,other
+2013,OSGi,1,other
+2013,OpenCL,1,other
+2013,Entity Framework,1,other
+2013,QuickMacros,1,other
+2013,SFDC,1,other
+2013,XSLT XML JMS,1,other
+2013,Maude,1,other
+2013,Typescript,1,other
+2013,TestComplete,1,other
+2013,Selenium,1,Tools
+2013,OpenGL,1,Libraries
+2013,Classic ASP/vbScript,1,other
+2013,Selenium scripting,1,other
+2013,php,1,other
+2013,owl,1,other
+2013,rdf,1,other
+2013,Google Web Toolkit,1,other
+2013,MASM,1,other
+2013,Per,1,other
+2013,Unity3d,1,other
+2013,SSRS 2008 R2,1,other
+2013,Yahoo! User Interface Library,1,other
+2013,Shopify / Liquid,1,other
+2013,ZSH,1,other
+2013,xslt,1,other
+2013,Agda,1,other
+2013,Really?? no VB.NET in the list?,1,other
+2013,Visual Objects,1,other
+2013,Sharepoint,1,other
+2013,MPI,1,other
+2013,it's much more widely used than Python or Ruby or Node.js and even PHP if you count sysadmin/automation,1,other
+2013,Perl (and lame leaving it off the default list,1,other
+2013,unify-4gl,1,other
+2013,AutoLisp,1,other
+2013,PID controller,1,other
+2013,backbone.js,1,other
+2013,ba]sh,1,other
+2013,XML Schema,1,other
+2013,Tcl/Tk,1,other
+2013,NET,1,other
+2013,logic (FOL,1,other
+2013,Cygwin,1,other
+2013,Objective C,1,other
+2013,Boo,1,other
+2013,google-closure,1,other
+2013,Actionscript 3/MXML/Flex,1,other
+2013,"wpf,wcf,knockout",1,other
+2013,Titanium Appcelerator,1,other
+2013,VBscript,1,other
+2013,Thirdparty scripting system,1,other
+2013,Oxygene,1,other
+2013,Emacs lisp,1,other
+2013,Actionscript 3,1,other
+2013,scss,1,other
+2013,VBS,1,other
+2013,HTML-5,1,other
+2013,CSS-3,1,other
+2013,drupal,1,other
+2013,$ (it's like jQuery but faster,1,other
+2013,jQuery Mobile,1,other
+2013,Websockets,1,other
+2013,Lotus Notes/Domino,1,other
+2013,Lotusscript,1,other
+2013,Informatica,1,other
+2013,visual basic 6,1,other
+2013,ColdFusion 9,1,other
+2013,Praat,1,other
+2013,MSSQL,1,other
+2013,SSAS,1,other
+2013,VB (groan,1,other
+2013,FoxPro,1,other
+2013,Lots of shell scripts!,1,other
+2013,BiTalk,1,other
+2013,Microsoft Access VBA,1,other
+2013,puppet,1,other
+2013,ksh,1,other
+2013,HTML CSS,1,other
+2013,R   FORTRAN,1,other
+2013,custom scripting,1,other
+2013,velocity,1,other
+2013,Responsive Design,1,other
+2013,nosql,1,other
+2013,Carto,1,other
+2013,VB.NET ASP.NET MVC,1,other
+2013,NHibernate,1,other
+2013,SASS,1,other
+2013,Flex/Actionscript,1,other
+2013,Mainsail,1,other
+2013,proprietary scripting languages,1,other
+2013,matlab/octave,1,other
+2013,Korn shell,1,other
+2013,proprietary assembler,1,other
+2013,VBScript haha,1,other
+2013,scheme,1,other
+2013,perl tcl,1,other
+2013,apex,1,other
+2013,sharepoint,1,other
+2013,xsl,1,other
+2013,SAP,1,other
+2013,Assembly language,1,other
+2013,OracleForms,1,other
+2013,mathematics,1,other
+2013,ant maven version control shell,1,other
+2013,Fasto,1,other
+2013,MIPS,1,other
+2013,Moscow ML,1,other
+2013,ruby on rails,1,other
+2013,xBase,1,other
+2013,several more,1,other
+2013,VB .Net,1,other
+2013,Vaadin,1,other
+2013,Twitter Bootstrap,1,other
+2013,Delph 6,1,other
+2013,rhomobile,1,other
+2013,XUL,1,other
+2013,Lassoscript & ASP.NET,1,other
+2013,Cocos2d,1,other
+2013,vert.x,1,other
+2013,CakePHP,1,Web Frameworks
+2013,FileMaker,1,other
+2013,FORTRAN 90,1,other
+2013,ASP/VB Script,1,other
+2013,assembler 8051,1,other
+2013,"HTML,CSS",1,other
+2013,emacs-lisp,1,other
+2013,CSLA,1,other
+2013,Angular JS,1,other
+2013,vimscript,1,other
+2013,XSLT XQUERY XML,1,other
+2013,NetLogo,1,other
+2013,SCala,1,other
+2013,"Groovy,Griffon,Grails",1,other
+2013,Knockout.js,1,other
+2013,Joomla!,1,other
+2013,Atmosphere,1,other
+2013,Raphael.js,1,Libraries
+2013,rails,1,other
+2013,SOA,1,other
+2013,ESB,1,other
+2013,javascript,1,other

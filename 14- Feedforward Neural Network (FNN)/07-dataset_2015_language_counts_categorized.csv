@@ -1,0 +1,1060 @@
+Year,Language,Count,Category
+2015,JavaScript,11963,Programming Language
+2015,SQL,9440,Scripting Language
+2015,Java,8219,Programming Language
+2015,C#,6949,Programming Language
+2015,PHP,6529,Programming Language
+2015,Python,5238,Programming Language
+2015,C++,4529,Programming Language
+2015,SQL Server,4129,Databases
+2015,Android,4110,Platforms
+2015,C,3612,Programming Language
+2015,Node.js,2919,Frameworks
+2015,AngularJS,2913,Web Frameworks
+2015,Wordpress,2007,other
+2015,iOS,1956,Platforms
+2015,LAMP,1926,Frameworks
+2015,C++11,1851,other
+2015,Ruby,1765,Programming Language
+2015,MongoDB,1747,Databases
+2015,Objective-C,1719,Programming Language
+2015,Visual Basic,1702,Programming Language
+2015,Arduino / Raspberry Pi,1626,Tools
+2015,Azure,1412,Platforms
+2015,,1411,other
+2015,Cloud (AWS,1410,other
+2015,GAE,1410,other
+2015,Redis,873,Databases
+2015,Matlab,861,other
+2015,CoffeeScript,783,other
+2015,Swift,759,Programming Language
+2015,R,755,Programming Language
+2015,Perl,738,Programming Language
+2015,Cordova,628,Frameworks
+2015,Windows Phone,570,Platforms
+2015,Scala,539,Programming Language
+2015,Go,463,Programming Language
+2015,Haskell,357,Programming Language
+2015,Sharepoint,349,other
+2015,Hadoop,342,Tools
+2015,Cassandra,202,Databases
+2015,Clojure,176,Programming Language
+2015,F#,174,Programming Language
+2015,Salesforce,154,Platforms
+2015,Dart,109,Programming Language
+2015,Spark,104,Frameworks
+2015,Rust,103,Programming Language
+2015,Delphi,92,Programming Language
+2015,Groovy,92,Programming Language
+2015,TypeScript,61,Programming Language
+2015,HTML,60,Markup Language
+2015,Lua,59,Programming Language
+2015,CSS,52,Markup Language
+2015,Bash,50,Scripting Language
+2015,Erlang,45,Programming Language
+2015,Fortran,41,Programming Language
+2015,bash,39,other
+2015,Typescript,26,other
+2015,PL/SQL,26,Programming Language
+2015,PowerShell,26,Scripting Language
+2015,Powershell,25,other
+2015,Django,20,Web Frameworks
+2015,ActionScript,20,Programming Language
+2015,VBA,19,Scripting Language
+2015,ColdFusion,18,other
+2015,Drupal,18,other
+2015,groovy,17,other
+2015,VHDL,16,Programming Language
+2015,jQuery,16,Libraries
+2015,Grails,15,other
+2015,D,14,Programming Language
+2015,MySQL,14,Databases
+2015,React,14,Web Frameworks
+2015,EmberJS,13,Web Frameworks
+2015,OCaml,13,Programming Language
+2015,SAS,12,Programming Language
+2015,Ember.js,12,Libraries
+2015,Scheme,11,Programming Language
+2015,Julia,11,Programming Language
+2015,Mathematica,11,other
+2015,Coldfusion,11,other
+2015,Magento,10,other
+2015,ABAP,10,Programming Language
+2015,Assembly,10,Programming Language
+2015,PostgreSQL,10,Databases
+2015,Ada,10,Programming Language
+2015,Verilog,10,Programming Language
+2015,Joomla,10,other
+2015,HTML5,10,other
+2015,css,10,other
+2015,Qt,9,Frameworks
+2015,jquery,9,other
+2015,Prolog,9,Programming Language
+2015,ExtJS,9,other
+2015,XSLT,9,Markup Language
+2015,Common Lisp,9,other
+2015,Tcl,9,other
+2015,lua,9,other
+2015,X++,9,other
+2015,Meteor,8,Web Frameworks
+2015,Spring,8,Web Frameworks
+2015,Elasticsearch,8,Databases
+2015,Xamarin,8,Frameworks
+2015,ElasticSearch,8,other
+2015,Pascal,8,Programming Language
+2015,ASP.NET,8,Web Frameworks
+2015,KnockoutJS,8,other
+2015,COBOL,8,Programming Language
+2015,html,8,other
+2015,CUDA,8,other
+2015,Oracle,8,Databases
+2015,Haxe,7,other
+2015,TCL,7,other
+2015,Backbone,7,Web Frameworks
+2015,Laravel,7,Web Frameworks
+2015,LUA,7,other
+2015,erlang,7,other
+2015,Shell,7,Scripting Language
+2015,React.js,6,other
+2015,OpenGL,6,other
+2015,QML,6,other
+2015,Smalltalk,6,Programming Language
+2015,Html,6,other
+2015,Knockout,6,Libraries
+2015,Lisp,6,Programming Language
+2015,ASP,6,other
+2015,Unity,6,Frameworks
+2015,Ember,6,other
+2015,VBScript,6,Programming Language
+2015,CSS3,6,other
+2015,LESS,6,other
+2015,JQuery,5,other
+2015,haxe,5,other
+2015,none,5,other
+2015,Kotlin,5,Programming Language
+2015,BASH,5,other
+2015,OpenCL,5,other
+2015,Elixir,5,Programming Language
+2015,Flex,5,other
+2015,ActionScript 3,5,other
+2015,GLSL,5,Programming Language
+2015,Sass,5,other
+2015,AS3,5,other
+2015,Actionscript,5,other
+2015,shell,5,other
+2015,assembly,5,other
+2015,Powerbuilder,5,other
+2015,RavenDB,5,Databases
+2015,Docker,5,Tools
+2015,Action Script 3,4,other
+2015,fortran,4,other
+2015,FORTRAN,4,other
+2015,DB2,4,Databases
+2015,lisp,4,other
+2015,ReactJS,4,Libraries
+2015,elasticsearch,4,other
+2015,XQuery,4,other
+2015,GML,4,other
+2015,CFML,4,other
+2015,SSIS,4,other
+2015,Rails,4,other
+2015,Emacs Lisp,4,other
+2015,RabbitMQ,4,other
+2015,IDL,4,other
+2015,Sitecore,4,other
+2015,Postgres,4,other
+2015,awk,4,other
+2015,Polymer,4,other
+2015,Racket,4,Programming Language
+2015,Silverlight,4,other
+2015,grails,4,other
+2015,WPF,4,other
+2015,x86 assembly,4,other
+2015,Ruby on Rails,4,Web Frameworks
+2015,Assembler,4,other
+2015,GWT,4,other
+2015,ASP.NET MVC,4,other
+2015,Unity3D,4,other
+2015,typescript,3,other
+2015,ASP.Net,3,other
+2015,Joomla!,3,other
+2015,CouchDB,3,Databases
+2015,Cobol,3,other
+2015,BASIC,3,other
+2015,HTML/CSS,3,other
+2015,RPGLE,3,other
+2015,LabVIEW,3,other
+2015,PureScript,3,other
+2015,Backbone.js,3,other
+2015,WebGL,3,other
+2015,XAML,3,other
+2015,Codeigniter,3,other
+2015,BizTalk,3,other
+2015,AutoIT,3,other
+2015,Vaadin,3,other
+2015,Cold Fusion,3,other
+2015,BackboneJS,3,other
+2015,Hibernate,3,Frameworks
+2015,knockout.js,3,other
+2015,MySql,3,other
+2015,Jquery,3,other
+2015,mysql,3,other
+2015,NET,3,other
+2015,Solr,3,Databases
+2015,Xslt,3,other
+2015,Hive,3,other
+2015,html5,3,other
+2015,Puppet,3,other
+2015,Bootstrap,3,other
+2015,SystemVerilog,3,other
+2015,elisp,3,other
+2015,Agda,3,other
+2015,couchdb,3,other
+2015,Vala,3,other
+2015,Symfony2,3,other
+2015,Free Pascal,3,other
+2015,ASM,3,other
+2015,Dojo,3,other
+2015,SSRS,3,other
+2015,Actionscript 3,3,other
+2015,XML,3,Markup Language
+2015,octave,3,other
+2015,HTML CSS,3,other
+2015,RPG,3,other
+2015,Dynamics AX,2,other
+2015,TeX,2,other
+2015,SML,2,other
+2015,UML,2,other
+2015,APL,2,other
+2015,Ceylon,2,other
+2015,CakePHP,2,Web Frameworks
+2015,assembler,2,other
+2015,xslt,2,other
+2015,net,2,other
+2015,Visual FoxPro,2,other
+2015,Couchbase,2,Databases
+2015,batch,2,other
+2015,Common lisp,2,other
+2015,Object Pascal,2,other
+2015,Assembly language,2,other
+2015,JCL,2,other
+2015,REXX,2,other
+2015,C++14,2,other
+2015,LiveScript,2,other
+2015,vhdl,2,other
+2015,Tcl/Tk,2,other
+2015,CMake,2,other
+2015,UnityScript,2,other
+2015,LaTeX,2,Markup Language
+2015,css3,2,other
+2015,scss,2,other
+2015,sass,2,other
+2015,joomla,2,other
+2015,bootstrap,2,other
+2015,knockout,2,other
+2015,SASS,2,other
+2015,J,2,other
+2015,common lisp,2,other
+2015,Xojo,2,other
+2015,OpenEdge,2,other
+2015,Nim,2,other
+2015,Google Apps Script,2,other
+2015,ActionScript3,2,other
+2015,Nginx,2,other
+2015,Jade,2,other
+2015,Chef,2,other
+2015,Prestashop,2,other
+2015,ASP Classic,2,other
+2015,ExtJs,2,other
+2015,ant,2,other
+2015,CMD,2,other
+2015,Freemarker,2,other
+2015,Stata,2,other
+2015,shell scripting,2,other
+2015,Pig,2,other
+2015,MDX,2,other
+2015,PLSQL,2,other
+2015,LISP,2,other
+2015,ksh,2,other
+2015,Play Framework,2,other
+2015,tcl,2,other
+2015,Knockout.js,2,other
+2015,Aerospike,2,other
+2015,rabbitmq,2,other
+2015,Flask,2,other
+2015,MeteorJS,2,other
+2015,Ladder Logic,2,other
+2015,reactjs,2,other
+2015,asm,2,other
+2015,Apache Flex,2,other
+2015,d3.js,2,other
+2015,powershell,2,other
+2015,nginx,2,other
+2015,gremlin,2,other
+2015,None,2,other
+2015,Durandal,2,other
+2015,racket,2,other
+2015,Symfony,2,Web Frameworks
+2015,django,2,other
+2015,ActiveMQ,2,other
+2015,Meteor.js,2,other
+2015,LEMP,2,other
+2015,delphi,2,other
+2015,Umbraco,2,other
+2015,Crystal Reports,2,other
+2015,Qlikview,2,other
+2015,M,2,other
+2015,Oracle PL/SQL,2,other
+2015,LINQ,2,other
+2015,Labview,2,other
+2015,MVC,2,other
+2015,Octave,2,other
+2015,Flash,2,other
+2015,DQL,2,other
+2015,vb.net,2,other
+2015,ClojureScript,2,other
+2015,VB6,2,other
+2015,ActionScript 3.0,2,other
+2015,Actionscript 3.0,2,other
+2015,VB.NET,2,other
+2015,polymer,2,other
+2015,Unity3d,2,other
+2015,vaadin,2,other
+2015,Javascript,2,other
+2015,"HTML,CSS",2,other
+2015,JSP,2,other
+2015,SCSS,2,other
+2015,coldfusion,2,other
+2015,Css,2,other
+2015,Object Pascal (Delphi,1,other
+2015,No HTML5???,1,other
+2015,Lisp (Scheme,1,other
+2015,WinForms,1,other
+2015,Bash script,1,other
+2015,XHTML,1,other
+2015,"php,python,c++,java",1,other
+2015,Actionscript3.0,1,other
+2015,CSS & ActionScript 3,1,other
+2015,Cobra,1,other
+2015,JSF,1,other
+2015,ABL,1,other
+2015,phonegap,1,other
+2015,Asp.Net,1,other
+2015,qml,1,other
+2015,KSH,1,other
+2015,wpf,1,other
+2015,WebSockets (SocketIO,1,other
+2015,EMBER,1,other
+2015,swift,1,other
+2015,LESS/CSS,1,other
+2015,HLASM,1,other
+2015,SmartTV,1,other
+2015,Component Pascal,1,other
+2015,ActionScript. A little of JS and C,1,other
+2015,Ember js,1,other
+2015,Regex,1,other
+2015,G/LabVIEW,1,other
+2015,rpg400,1,other
+2015,Chrome App,1,other
+2015,Bach,1,other
+2015,Griffon,1,other
+2015,Meteor (JS,1,other
+2015,Sass (yes,1,other
+2015,ruby on rails,1,other
+2015,APEX,1,other
+2015,it's a programming language!!,1,other
+2015,Twitter Flight,1,other
+2015,VLSI,1,other
+2015,Protractor,1,other
+2015,Bash Script,1,other
+2015,ocaml,1,other
+2015,TCL/Expect,1,other
+2015,AJAX,1,other
+2015,ISML,1,other
+2015,Autohotkey,1,other
+2015,NAnt,1,other
+2015,AutoIt,1,other
+2015,XAML (Silverlight,1,other
+2015,"C++14,C++17",1,other
+2015,Awk,1,other
+2015,Web Services,1,other
+2015,DemandwareScript,1,other
+2015,T-SQL,1,other
+2015,Emberjs,1,other
+2015,Luna,1,other
+2015,HTML5!,1,other
+2015,PeopleCode,1,other
+2015,Adobe AIR,1,other
+2015,xtUML,1,other
+2015,ember.js,1,other
+2015,Dojo Toolkit,1,other
+2015,Hexo,1,other
+2015,Where's HTML?,1,other
+2015,Cython,1,other
+2015,meteor.js,1,other
+2015,prolog,1,other
+2015,ivy,1,other
+2015,neo4jdb,1,other
+2015,Appcelerator,1,other
+2015,"css,jquery,html",1,other
+2015,cq5,1,other
+2015,ExtendScript,1,other
+2015,github,1,other
+2015,Curl programming language,1,other
+2015,and more!,1,other
+2015,"css,html,jquery",1,other
+2015,RavenDB (similar to MongoDB,1,other
+2015,lots of js/css/html,1,other
+2015,backbonejs,1,other
+2015,Brainfuck,1,other
+2015,Spoon,1,other
+2015,Pawn,1,other
+2015,Spring MVC,1,other
+2015,Ook!,1,other
+2015,REBOL,1,other
+2015,LuaJIT,1,other
+2015,Html css,1,other
+2015,jQfy,1,other
+2015,elasticsearcg,1,other
+2015,backbone,1,other
+2015,html css jquery ajax,1,other
+2015,JScript.NET,1,other
+2015,Twitter bootstrap,1,other
+2015,kotlin,1,other
+2015,"knockout,SignalR",1,other
+2015,Actionscript3,1,other
+2015,vffox,1,other
+2015,haXe,1,other
+2015,leveldb,1,other
+2015,postgres,1,other
+2015,backbone marionette,1,other
+2015,Angular,1,other
+2015,"grails,groovy",1,other
+2015,Applescript,1,other
+2015,HQL,1,other
+2015,"Groovy,Jquery",1,other
+2015,"Groovy,Grails",1,other
+2015,FileMaker,1,other
+2015,Spring mvc,1,other
+2015,TYPO3,1,other
+2015,Ghost,1,other
+2015,gml,1,other
+2015,zend framework,1,other
+2015,Mainly with Qt and QML,1,other
+2015,Groovy & Grails,1,other
+2015,ColdFusion /Railo/Lucee (CFML,1,other
+2015,EXT JS and Sencha Touch,1,other
+2015,React JS,1,other
+2015,Hack,1,other
+2015,selenium,1,other
+2015,DurandalJS,1,other
+2015,sqlfire,1,other
+2015,Basic,1,other
+2015,gemfire,1,other
+2015,Jekyll,1,other
+2015,Netduino,1,other
+2015,SPARQL,1,other
+2015,Dynamics CRM,1,other
+2015,"html,css,sass",1,other
+2015,jquery jquery mobile,1,other
+2015,Markdown,1,Markup Language
+2015,Labview/Arduino,1,other
+2015,Assembler MIPS32,1,other
+2015,Partially not extensively,1,other
+2015,NetLinx,1,other
+2015,TCL TK,1,other
+2015,Processing & Open Frameworks,1,other
+2015,Bourne shell (sh,1,other
+2015,Flume,1,other
+2015,storm,1,other
+2015,Backbonejs,1,other
+2015,Gambas,1,other
+2015,Why do you have SQL/SQL Server/MongoDB but not Postgres?,1,other
+2015,i didn't,1,other
+2015,Highcharts,1,other
+2015,Web(HTML,1,other
+2015,Pyramid,1,other
+2015,G,1,other
+2015,Shell scripting (Bash,1,other
+2015,PLC languages,1,other
+2015,XSD,1,other
+2015,Schematron,1,other
+2015,RelaxNG,1,other
+2015,XSL-FO,1,other
+2015,OWL/SPARQL,1,other
+2015,XQuery 3.0,1,other
+2015,wxwidgets,1,other
+2015,"yacc,flex,bison,llvm",1,other
+2015,GCode,1,other
+2015,Asembly,1,other
+2015,sh awk,1,other
+2015,OpenFrameworks,1,other
+2015,batch files,1,other
+2015,IBM WebSphere products,1,other
+2015,Webmethods,1,other
+2015,StreamBase,1,other
+2015,Selenium,1,other
+2015,Ranorex,1,other
+2015,"none ""extensively""",1,other
+2015,bash? (^_^,1,other
+2015,System Verilog,1,other
+2015,actionscript 3,1,other
+2015,Direct3D,1,other
+2015,Couchbase Server,1,other
+2015,Bath,1,other
+2015,Wt,1,other
+2015,Marmalade,1,other
+2015,VBa,1,other
+2015,neo4j,1,other
+2015,z/OS,1,other
+2015,No extensive development in the last year,1,other
+2015,MUMPS,1,other
+2015,Xamarin.Forms,1,other
+2015,Ladder,1,other
+2015,Just learning,1,other
+2015,Delphi; PLC/Ladder,1,other
+2015,none of the above,1,other
+2015,AppScript,1,other
+2015,bash scripting,1,other
+2015,KDB+Q database,1,other
+2015,Entity Framework 6,1,other
+2015,fortran !,1,other
+2015,8051 Microcontroller Asembly,1,other
+2015,brainfuck,1,other
+2015,TESTING,1,other
+2015,kothiladi,1,other
+2015,XLST,1,other
+2015,WSDL,1,other
+2015,"XSD ,ESQL",1,other
+2015,"xampp,mysql",1,other
+2015,sdsdfsdf,1,other
+2015,Technical design,1,other
+2015,Oracle and WPF,1,other
+2015,forge,1,other
+2015,bukkit,1,other
+2015,SAS Base,1,other
+2015,no,1,other
+2015,PLC Programming,1,other
+2015,HTML and CSS,1,other
+2015,Batch Files,1,other
+2015,Crystal,1,other
+2015,Mirah,1,other
+2015,"HTML5,XHTML",1,other
+2015,HTML 4.01,1,other
+2015,ASP.NET Web API 2.2,1,other
+2015,ASP.NET MVC 4/5,1,other
+2015,and Lua,1,other
+2015,llvm-ir,1,other
+2015,PickBasic,1,other
+2015,SenseTalk,1,other
+2015,Action script,1,other
+2015,webGL,1,other
+2015,MS CRM Dynamics,1,other
+2015,Cuda,1,other
+2015,Eclipse RCP,1,other
+2015,PostScript,1,other
+2015,Bourne shell,1,other
+2015,PostGIS,1,other
+2015,Riak,1,other
+2015,ALGOL; COBOL,1,other
+2015,SAP HANA,1,other
+2015,Lotusscript,1,other
+2015,System-Verilog,1,other
+2015,Google APIs,1,other
+2015,Cucumber,1,other
+2015,PARI/GP,1,other
+2015,piripi,1,other
+2015,baba rails,1,other
+2015,git++,1,other
+2015,Lue,1,other
+2015,FileMaker Scripting,1,other
+2015,PROLOG,1,other
+2015,NetLogo,1,other
+2015,IndexDB + jQuery (I know you've got Javascript but,1,other
+2015,Anchor CMS,1,other
+2015,SCSS / Sass,1,other
+2015,ML,1,other
+2015,Cilk++,1,other
+2015,Shell Scripts,1,other
+2015,AgdaŒŸ bash,1,other
+2015,mikroC,1,other
+2015,Mikroe C,1,other
+2015,Cupcake,1,other
+2015,Pike,1,other
+2015,HMTL,1,other
+2015,PL/I,1,other
+2015,Pebble Smartwatch,1,other
+2015,Gmod Lua,1,other
+2015,HTML5 and CSS3,1,other
+2015,CUDA C,1,other
+2015,OpenCV,1,other
+2015,Source Engine,1,other
+2015,Unreal 4,1,other
+2015,Raptor,1,other
+2015,NETMF,1,other
+2015,SystemC,1,other
+2015,SPICE,1,other
+2015,Autumn,1,other
+2015,CJAM,1,other
+2015,LUA (minecraft - computercraft mod,1,other
+2015,x86 Assembly,1,other
+2015,Remember?,1,other
+2015,Scheme (I'm a student,1,other
+2015,CSS & JS,1,other
+2015,ARM,1,other
+2015,Ocaml,1,other
+2015,ELISP,1,other
+2015,Shell scripts,1,other
+2015,MMIX Assembly,1,other
+2015,Dyvil,1,other
+2015,JBoss/Wildfly,1,other
+2015,Xtend,1,other
+2015,Xtext,1,other
+2015,Xbase,1,other
+2015,Apache CouchDB,1,other
+2015,makefile,1,other
+2015,Maple,1,other
+2015,Piet,1,other
+2015,E,1,other
+2015,PASCAL,1,other
+2015,BlitzBASIC (Blitz3D,1,other
+2015,BlitzMax,1,other
+2015,scheme,1,other
+2015,Fortran 95,1,other
+2015,I am a school student,1,other
+2015,PAWN,1,other
+2015,tcl/tk,1,other
+2015,RobotC,1,other
+2015,SQLite,1,other
+2015,Vertica,1,other
+2015,verilog,1,other
+2015,bash scripts,1,other
+2015,Pascal86,1,other
+2015,Eclipse plugin development,1,other
+2015,shell scripts,1,other
+2015,flex,1,other
+2015,CAL,1,other
+2015,ANTLR,1,other
+2015,Clarion,1,other
+2015,SQF (Not a typo,1,other
+2015,"see ""Arma""",1,other
+2015,Meteor sqlite3,1,other
+2015,FreeBasic,1,other
+2015,C++/CLI,1,other
+2015,tcl verilog,1,other
+2015,Q,1,other
+2015,Limnor Studio,1,other
+2015,d3,1,other
+2015,Leaflet,1,other
+2015,latex,1,other
+2015,CHR,1,other
+2015,Fortran 2003,1,other
+2015,Visual Basic for Applications,1,other
+2015,PhoneGapBuild,1,other
+2015,QlikView,1,other
+2015,SOAP,1,other
+2015,HTML (the flower pot,1,other
+2015,Script,1,other
+2015,Intel x86-32,1,other
+2015,FireFox OS,1,other
+2015,Verilog and TCL,1,other
+2015,puredata,1,other
+2015,LuaJ,1,other
+2015,Bash/Shell,1,other
+2015,Bash / Unix shell,1,other
+2015,Vimscript,1,other
+2015,Coq,1,other
+2015,and (God Help Me) Batch,1,other
+2015,autoit3,1,other
+2015,x86/x86 Assembly,1,other
+2015,kornshell,1,other
+2015,PL/SQL; PL/PgSQL,1,other
+2015,bash/ksh,1,other
+2015,Vbscript,1,other
+2015,Pascal/Delphi,1,other
+2015,bash/shell,1,other
+2015,Pascal and dialects,1,other
+2015,"Define ""extensive""",1,other
+2015,bash?,1,other
+2015,Shell Scripting,1,other
+2015,Windows batch,1,other
+2015,REST,1,other
+2015,Express.js,1,Web Frameworks
+2015,Elastic Search,1,other
+2015,mysql delphi,1,other
+2015,Windows,1,other
+2015,DSLs,1,other
+2015,Centura,1,other
+2015,powerscript,1,other
+2015,PEGA PRPC,1,other
+2015,OpenSceneGraph,1,other
+2015,meteor,1,other
+2015,ProLog,1,other
+2015,CLASSIC ASP,1,other
+2015,shell (bash,1,other
+2015,WinRT,1,other
+2015,Wpf,1,other
+2015,Wcf,1,other
+2015,Asp.Net Mvc,1,other
+2015,Batch-file,1,other
+2015,and gml,1,other
+2015,AspectJ,1,other
+2015,TYpeScript,1,other
+2015,Postscript,1,other
+2015,Object-Pascal (Delphi,1,other
+2015,Progress,1,other
+2015,C/AL (Dynamics NAV,1,other
+2015,HyperTalk,1,other
+2015,D2,1,other
+2015,Red,1,other
+2015,Blackberry,1,other
+2015,X++ (no,1,other
+2015,that is not a misspelled C++,1,other
+2015,ServiceStack,1,other
+2015,And Delphi,1,other
+2015,Eclipse,1,Tools
+2015,CORBA,1,other
+2015,Oracle Forms 10g,1,other
+2015,PowerBuilder,1,other
+2015,Julia Groovy,1,other
+2015,DSL,1,other
+2015,Delphi / Pascal,1,other
+2015,bash script,1,other
+2015,EasyPlug,1,other
+2015,x86 assembler,1,other
+2015,Ember WebApi DevExpress,1,other
+2015,LLVM,1,other
+2015,Microsoft Dynamics Ax own developer language called X++,1,other
+2015,FileAMaker,1,other
+2015,Postgresql,1,other
+2015,Gurobi,1,other
+2015,Latex,1,other
+2015,Asterisk,1,other
+2015,Algorithms,1,other
+2015,processing,1,other
+2015,gradle,1,other
+2015,sh,1,other
+2015,MIT Scheme,1,other
+2015,MarkLogic,1,other
+2015,WiX,1,other
+2015,Openedge,1,other
+2015,bash (if you can count it,1,other
+2015,Jetty,1,other
+2015,GAP,1,other
+2015,Perl 6,1,other
+2015,m68k,1,other
+2015,ppc,1,other
+2015,linux kernel,1,other
+2015,Arm and x86 Asm,1,other
+2015,jQuery (You missed that one out!,1,other
+2015,ARM Assembly,1,other
+2015,ARM assembly,1,other
+2015,Windows MFC,1,other
+2015,Three.js,1,Libraries
+2015,Idris,1,other
+2015,wowza,1,other
+2015,hibernate,1,other
+2015,CCS3,1,other
+2015,OpenVMS,1,other
+2015,Custom trading DSL,1,other
+2015,Progress 4GL,1,other
+2015,Progress ABL,1,other
+2015,"Powershell,Groovy",1,other
+2015,Classic BASIC,1,other
+2015,mathematica,1,other
+2015,Batch,1,other
+2015,SVG,1,other
+2015,LabView,1,other
+2015,Qt / QML,1,other
+2015,FORTRAN (haven't you heard of that?,1,other
+2015,Wolfram Language,1,other
+2015,"Tcl,Tk",1,other
+2015,Curry,1,other
+2015,webservices,1,other
+2015,spring,1,other
+2015,struts,1,other
+2015,Rebol,1,other
+2015,"html,css3",1,other
+2015,Gosu,1,other
+2015,odoo,1,other
+2015,EPiServer,1,other
+2015,RavenDb,1,other
+2015,smalltalk,1,other
+2015,varnish,1,other
+2015,solr,1,other
+2015,Linux shell scripting,1,other
+2015,Heroku,1,Platforms
+2015,powershell scripting,1,other
+2015,Hacklang,1,other
+2015,iOS and Android development mostly in JS,1,other
+2015,Laravel 4,1,other
+2015,PortgreSQL,1,other
+2015,Brightscript,1,other
+2015,Velneo,1,other
+2015,Apex,1,other
+2015,FoxPro,1,other
+2015,and Groovy,1,other
+2015,NoSQL,1,other
+2015,Amazon Web Services,1,other
+2015,Doctrine,1,other
+2015,Laravel 5,1,other
+2015,Falcon,1,other
+2015,Less,1,other
+2015,Oracle Server,1,other
+2015,groovy/grails,1,other
+2015,drools,1,other
+2015,Java EE,1,other
+2015,yii,1,other
+2015,ASP .Net MVC,1,other
+2015,WCF,1,other
+2015,AEM,1,other
+2015,CQ,1,other
+2015,asp.net mvc,1,other
+2015,"erlang,riak,sybase",1,other
+2015,HBase,1,other
+2015,Asp .net MVC,1,other
+2015,PL/SQL oracle-apex,1,other
+2015,D & Nimrod,1,other
+2015,knockoutJS,1,other
+2015,postgreSQL,1,other
+2015,Pharo Smalltalk,1,other
+2015,mySQL,1,other
+2015,neo4j / cypher,1,other
+2015,Storm,1,other
+2015,AutoLISP,1,other
+2015,Xamarin.OSX,1,other
+2015,Non-just getting into this,1,other
+2015,Shell script is always there,1,other
+2015,Delphi Pascal,1,other
+2015,Scilab (like Matlab,1,other
+2015,Scilab,1,other
+2015,Fortran90/95; IDL,1,other
+2015,WAMP,1,other
+2015,IBM SPSS DataCollection 6,1,other
+2015,ETL,1,other
+2015,"amazon redshift,mahout",1,other
+2015,sas,1,other
+2015,and I miss Lisp from your list,1,other
+2015,xamarin,1,other
+2015,Makefile,1,other
+2015,PL/pgSQL,1,other
+2015,SAP ASE,1,other
+2015,HTML; CSS,1,other
+2015,MariaDB,1,Databases
+2015,Object Pascal (both Delphi and FreePascas dialects,1,other
+2015,SHELL,1,other
+2015,Scaleform,1,other
+2015,labview,1,other
+2015,MCNP,1,other
+2015,neither,1,other
+2015,pig,1,other
+2015,PIG,1,other
+2015,CakePhp,1,other
+2015,Emberw,1,other
+2015,Impala,1,other
+2015,SPSS,1,other
+2015,q,1,other
+2015,Desktop shell,1,other
+2015,Kapow,1,other
+2015,Secdb/Slang (proprietary,1,other
+2015,mdx,1,other
+2015,olap,1,other
+2015,ssas,1,other
+2015,ssis,1,other
+2015,google-bigquery,1,other
+2015,Datastage,1,other
+2015,boo,1,other
+2015,Greenplum,1,other
+2015,postgresql,1,other
+2015,FAME,1,other
+2015,Bash scripts,1,other
+2015,SAP,1,other
+2015,Korn shell,1,other
+2015,sed,1,other
+2015,backbone js,1,other
+2015,Windows Store,1,other
+2015,magik,1,other
+2015,Entity Framework with code first,1,other
+2015,Bright Script,1,other
+2015,Jena,1,other
+2015,livescript,1,other
+2015,html/css,1,other
+2015,Winforms,1,other
+2015,LessCss,1,other
+2015,PL1,1,other
+2015,OpenStack,1,other
+2015,BaseSAS,1,other
+2015,GeneXus,1,other
+2015,LogStash,1,other
+2015,OpenResty,1,other
+2015,SeaweedFS,1,other
+2015,CQL,1,other
+2015,Kibana,1,other
+2015,To be honest many more,1,other
+2015,Sencha,1,other
+2015,Relativity,1,other
+2015,ABAP (SAP,1,other
+2015,proprietary assembly,1,other
+2015,HTML & co,1,other
+2015,CSS although these are no real programming languages,1,other
+2015,html 5 css3,1,other
+2015,JS,1,other
+2015,Compass,1,other
+2015,SALIH,1,other
+2015,gwt,1,other
+2015,CSS(3,1,other
+2015,HTML(5,1,other
+2015,html5 css3,1,other
+2015,ExpressionEngine,1,other
+2015,Adobe CQ5/AEM6,1,other
+2015,CSS / Sass / HTML / Django,1,other
+2015,"XML,XSLT",1,other
+2015,PL-SQL,1,other
+2015,Elixer,1,other
+2015,Drupal 7,1,other
+2015,Joomla / Magento / HTML / CSS / JQUERY,1,other
+2015,KnockoutJs,1,other
+2015,XPages,1,other
+2015,SAPUI5,1,other
+2015,atom-shell,1,other
+2015,EmberJs,1,other
+2015,asp.net webforms,1,other
+2015,julia,1,other
+2015,Action Script,1,other
+2015,emberjs,1,other
+2015,BatchFiles,1,other
+2015,Couch DB,1,other
+2015,knockoutjs,1,other
+2015,Liquidsoap,1,other
+2015,ProcessWire,1,other
+2015,"html,css",1,other
+2015,mysql (why are those missing in the list?,1,other
+2015,OSGi,1,other
+2015,GROOVY,1,other
+2015,WIldFly,1,other
+2015,LotusScript,1,other
+2015,ELK stack,1,other
+2015,Where is Delphi huh?,1,other
+2015,laravel,1,other
+2015,Ember.JS,1,other
+2015,MDriven (formerly ECO,1,other
+2015,model driven,1,other
+2015,Om,1,other
+2015,Vanilla-Forum,1,other
+2015,OXID,1,other
+2015,Presto,1,other
+2015,Tomcat,1,other
+2015,ADF,1,other
+2015,Oracle Apex,1,other
+2015,NSIS,1,other
+2015,XAMPP,1,other
+2015,XSL,1,other
+2015,mumps,1,other
+2015,smarty,1,other
+2015,cakephp,1,other
+2015,Unity3d; XAML; WinStore apps,1,other
+2015,sapui5,1,other
+2015,AngularDart,1,other
+2015,rails,1,other
+2015,react,1,other
+2015,Neo4j,1,other
+2015,asp-classic,1,other
+2015,CouchDb,1,other
+2015,Google App Engine,1,Platforms
+2015,Splunk,1,other
+2015,Railo,1,other
+2015,HTML&CSS,1,other
+2015,Json,1,other
+2015,"x++,asp",1,other
+2015,SEEBURGER-specific language,1,other
+2015,Mathematica / Wolfram Language,1,other
+2015,Ext JS,1,other
+2015,Google Web Toolkit,1,other
+2015,IBM FileNet,1,other
+2015,Abap,1,other
+2015,oracle,1,other
+2015,Bourne Shell Script,1,other
+2015,VoltDB,1,other
+2015,PL/1,1,other
+2015,PowerShell; BizTalk; MSBuild,1,other
+2015,chef,1,other
+2015,asp,1,other
+2015,Unibasic (pick,1,other
+2015,HTML5 Canvas,1,other
+2015,Siebel,1,other
+2015,Natural,1,other
+2015,siebel,1,other
+2015,puppet,1,other
+2015,Informix SQL - IBM4gl,1,other
+2015,tibco bw,1,other
+2015,AVR Assembler,1,other
+2015,Assembler(s,1,other
+2015,8051 Assembly,1,other
+2015,shellscript,1,other
+2015,MEL,1,other
+2015,AVR (C,1,other
+2015,Visual Studio (C++,1,other
+2015,AutomationBasic,1,other
+2015,Structured Text,1,other
+2015,microchip xc8 C,1,other
+2015,Sypt,1,other
+2015,awk bash,1,other
+2015,ActionScript Groovy,1,other
+2015,cuda,1,other
+2015,PIC ASM,1,other
+2015,Assembly (various,1,other
+2015,Delphi / Object Pascal,1,other
+2015,Delphi Object Pascal,1,other
+2015,ractive.js,1,other
+2015,NetBSD,1,other
+2015,HTML5 CSS,1,other
+2015,Expect/TCL,1,other
+2015,Delphi 0_o,1,other
+2015,oracle db,1,other
+2015,Bash Scripting,1,other
+2015,Cambodia,1,other
+2015,"jquery,html,css",1,other
+2015,HTML & CSS & Joomla,1,other
+2015,Razor,1,other
+2015,html5 - css3,1,other
+2015,react.js,1,other
+2015,CSS/Sass,1,other
+2015,Kraken.js,1,other
+2015,Kendo UI Framework,1,other
+2015,knockoutJs,1,other
+2015,elasticSearch,1,other
+2015,Suneido,1,other
+2015,korn,1,other
+2015,Mootools,1,other
+2015,Opencart,1,other
+2015,Stylus,1,other
+2015,LivesScript,1,other
+2015,Coffescript,1,other
+2015,Liquid,1,other
+2015,"html,css,javascript,jquery",1,other
+2015,BEM,1,other
+2015,React/JSX,1,other
+2015,Knockoukt,1,other
+2015,xml,1,other
+2015,Expression Engine,1,other
+2015,PHP frameworks,1,other
+2015,x++,1,other
+2015,How could you forget Groovy?,1,other
+2015,iSeries,1,other
+2015,Oracle Forms;PL/SQL,1,other
+2015,ADA,1,other
+2015,DotLisp,1,other
+2015,biztalk,1,other
+2015,MySQL (should I always use it with LAMP)?,1,other
+2015,Xbox,1,other
+2015,PSM,1,other
+2015,BeagleBoneBlack,1,other
+2015,Cognos Powerhouse,1,other
+2015,WCF && WPF,1,other
+2015,Lotus Notes,1,other
+2015,Soy,1,other
+2015,react js,1,other
+2015,Gearman,1,other
+2015,Memcache,1,other
+2015,Prologue,1,other
+2015,Axe (Ti-84 compiler language,1,other

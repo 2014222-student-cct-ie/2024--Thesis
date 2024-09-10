@@ -1,0 +1,68 @@
+Year,Language,Count,Category
+2017,JavaScript,12183,Programming Language
+2017,SQL,9739,Scripting Language
+2017,MySQL,8822,Databases
+2017,Node.js,7461,Frameworks
+2017,C#,7214,Programming Language
+2017,AngularJS,6920,Web Frameworks
+2017,SQL Server,6737,Databases
+2017,Java,6627,Programming Language
+2017,Windows Desktop,6319,Platforms
+2017,Amazon Web Services (AWS,5385,Platforms
+2017,PHP,5374,Programming Language
+2017,NET Core,5327,other
+2017,Android,5114,Platforms
+2017,Python,4981,Programming Language
+2017,SQLite,4714,Databases
+2017,Linux Desktop,4630,Platforms
+2017,MongoDB,4414,Databases
+2017,PostgreSQL,4394,Databases
+2017,C++,3227,Programming Language
+2017,Mac OS,3084,Platforms
+2017,React,3012,Web Frameworks
+2017,iOS,2989,Platforms
+2017,WordPress,2897,Web Frameworks
+2017,C,2777,Programming Language
+2017,Raspberry Pi,2747,Tools
+2017,Redis,2687,Databases
+2017,Microsoft Azure,2566,Platforms
+2017,TypeScript,2439,Programming Language
+2017,Oracle,2382,Databases
+2017,Cordova,1931,Frameworks
+2017,Ruby,1754,Programming Language
+2017,Arduino,1718,Tools
+2017,Firebase,1624,Platforms
+2017,Xamarin,1452,Frameworks
+2017,VB.NET,1395,Programming Language
+2017,Swift,1295,Programming Language
+2017,Objective-C,1286,Programming Language
+2017,Go,924,Programming Language
+2017,Hadoop,904,Tools
+2017,Windows Phone,833,Platforms
+2017,CoffeeScript,805,Programming Language
+2017,Assembly,802,Programming Language
+2017,SharePoint,752,Platforms
+2017,VBA,751,Scripting Language
+2017,Scala,736,Programming Language
+2017,Spark,727,Tools
+2017,R,692,Programming Language
+2017,Matlab,626,Programming Language
+2017,Perl,625,Programming Language
+2017,Cassandra,612,Databases
+2017,Visual Basic 6,589,Programming Language
+2017,Groovy,586,Programming Language
+2017,Lua,524,Programming Language
+2017,Salesforce,490,Platforms
+2017,Serverless,468,Frameworks
+2017,Haskell,321,Programming Language
+2017,F#,304,Programming Language
+2017,Elixir,258,Programming Language
+2017,Clojure,229,Programming Language
+2017,Mainframe,215,Platforms
+2017,Rust,203,Programming Language
+2017,Erlang,170,Programming Language
+2017,Common Lisp,137,Programming Language
+2017,Smalltalk,102,Programming Language
+2017,Dart,92,Programming Language
+2017,Hack,69,Programming Language
+2017,Julia,55,Programming Language

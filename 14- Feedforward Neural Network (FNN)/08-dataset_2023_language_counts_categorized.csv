@@ -1,0 +1,273 @@
+Year,Language,Count,Category
+2023,Visual Studio Code,29125,Tools
+2023,JavaScript,27667,Programming Language
+2023,Docker,22970,Tools
+2023,HTML/CSS,22734,Markup Language
+2023,npm,22513,Libraries
+2023,SQL,22486,Programming Language
+2023,TypeScript,19367,Programming Language
+2023,Python,19322,Programming Language
+2023,Amazon Web Services (AWS,19263,Platforms
+2023,PostgreSQL,19231,Databases
+2023,Node.js,17705,Platforms
+2023,React,16708,Web Frameworks
+2023,MySQL,16370,Databases
+2023,C#,14600,Programming Language
+2023,Visual Studio,13613,other
+2023,Java,13578,Programming Language
+2023,Bash/Shell (all shells,13111,Scripting Language
+2023,SQLite,13054,Databases
+2023,Microsoft Azure,12704,Platforms
+2023,Pip,12470,Tools
+2023,IntelliJ IDEA,12389,Tools
+2023,Microsoft SQL Server,12210,Databases
+2023,MongoDB,12194,Databases
+2023,NET (5+,11671,Frameworks
+2023,Notepad++,10573,Tools
+2023,Yarn,10372,Tools
+2023,Google Cloud,10065,Platforms
+2023,Redis,10015,Databases
+2023,Webpack,9702,Tools
+2023,Kubernetes,9694,Tools
+2023,Homebrew,9548,Tools
+2023,ASP.NET CORE,9246,Web Frameworks
+2023,jQuery,9059,Libraries
+2023,NuGet,9007,Tools
+2023,Vim,8837,Tools
+2023,Android Studio,8620,Tools
+2023,Express,8501,Web Frameworks
+2023,Angular,8245,Web Frameworks
+2023,C++,7884,Programming Language
+2023,NumPy,7790,Libraries
+2023,PHP,7782,Programming Language
+2023,Pandas,7731,Libraries
+2023,NET Framework (1.0 - 4.8,7518,Frameworks
+2023,Make,7412,Tools
+2023,MariaDB,7278,Databases
+2023,Maven (build tool,7250,Tools
+2023,PowerShell,7236,Scripting Language
+2023,Next.js,7106,Web Frameworks
+2023,Gradle,7101,Tools
+2023,Firebase,7019,Platforms
+2023,Visual Studio Solution,6995,Tools
+2023,C,6939,other
+2023,ASP.NET,6910,Web Frameworks
+2023,Vue.js,6848,Web Frameworks
+2023,Elasticsearch,6762,Databases
+2023,Vite,6705,Tools
+2023,Cloudflare,6622,Platforms
+2023,PyCharm,6487,Tools
+2023,Jupyter Notebook/JupyterLab,6172,Tools
+2023,Go,6120,Programming Language
+2023,Spring Boot,6018,Web Frameworks
+2023,Flask,5833,Web Frameworks
+2023,MSBuild,5771,Tools
+2023,Digital Ocean,5765,Platforms
+2023,RabbitMQ,5738,Tools
+2023,Terraform,5643,Tools
+2023,Spring Framework,5608,Frameworks
+2023,Sublime Text,5464,Tools
+2023,Heroku,5365,Platforms
+2023,Rust,5283,Programming Language
+2023,WordPress,5254,Web Frameworks
+2023,CMake,5154,Tools
+2023,Django,5128,Web Frameworks
+2023,Cargo,5001,Tools
+2023,React Native,4830,Web Frameworks
+2023,Xcode,4806,Tools
+2023,Neovim,4621,Tools
+2023,Apache Kafka,4616,Tools
+2023,Eclipse,4560,Tools
+2023,Vercel,4519,Platforms
+2023,Chocolatey,4466,Tools
+2023,Kotlin,4453,Programming Language
+2023,Flutter,4430,Frameworks
+2023,Nano,4376,Tools
+2023,Dynamodb,4366,Databases
+2023,TensorFlow,4124,Libraries
+2023,Oracle,4030,Databases
+2023,WebStorm,3916,Tools
+2023,Ansible,3880,Tools
+2023,GNU GCC,3863,Tools
+2023,FastAPI,3782,Web Frameworks
+2023,Electron,3743,Frameworks
+2023,Scikit-Learn,3690,Libraries
+2023,Netlify,3654,Platforms
+2023,Torch/PyTorch,3617,Frameworks
+2023,AngularJS,3530,Web Frameworks
+2023,Dart,3468,Programming Language
+2023,Cloud Firestore,3424,Databases
+2023,Opencv,3417,Libraries
+2023,Rider,3381,other
+2023,Firebase Realtime Database,3318,Databases
+2023,Composer,3254,Tools
+2023,VMware,3206,Platforms
+2023,APT,3076,Tools
+2023,Unity 3D,3054,Frameworks
+2023,DataGrip,2979,Tools
+2023,pnpm,2967,Tools
+2023,Laravel,2878,Web Frameworks
+2023,Svelte,2838,Web Frameworks
+2023,Blazor,2818,Web Frameworks
+2023,PhpStorm,2703,other
+2023,Atom,2693,Tools
+2023,OpenGL,2634,Libraries
+2023,Ruby,2599,Programming Language
+2023,Pacman,2564,Tools
+2023,Lua,2549,Programming Language
+2023,NestJS,2386,Web Frameworks
+2023,LLVM's Clang,2271,Tools
+2023,Cosmos DB,2240,Databases
+2023,Qt,2217,Frameworks
+2023,IPython,2201,Tools
+2023,CLion,2178,Tools
+2023,Swift,2163,Programming Language
+2023,Visual Basic (.Net,2161,Programming Language
+2023,Assembly,2119,Programming Language
+2023,BigQuery,2081,Databases
+2023,Ruby on Rails,2033,Web Frameworks
+2023,H2,1937,Databases
+2023,Hetzner,1889,Platforms
+2023,Apache Spark,1879,other
+2023,Microsoft Access,1826,Databases
+2023,Keras,1760,Libraries
+2023,Podman,1752,Tools
+2023,Ionic,1701,Web Frameworks
+2023,R,1698,Programming Language
+2023,Groovy,1693,Programming Language
+2023,Linode,1684,Platforms
+2023,now Akamai,1684,Platforms
+2023,CUDA,1683,Libraries
+2023,Xamarin,1672,Frameworks
+2023,Emacs,1670,Tools
+2023,Netbeans,1649,Tools
+2023,Nuxt.js,1620,Web Frameworks
+2023,Goland,1604,Tools
+2023,Managed Hosting,1595,Platforms
+2023,SwiftUI,1582,Frameworks
+2023,VSCodium,1579,Tools
+2023,OVH,1554,Platforms
+2023,MSVC,1539,Tools
+2023,MATLAB,1488,Programming Language
+2023,VBA,1478,Programming Language
+2023,Ant,1409,Tools
+2023,Supabase,1383,Platforms
+2023,Unreal Engine,1373,Frameworks
+2023,Cordova,1368,Frameworks
+2023,Cassandra,1342,Databases
+2023,InfluxDB,1318,Databases
+2023,Scala,1294,Programming Language
+2023,Hugging Face Transformers,1278,Frameworks
+2023,Godot,1267,Frameworks
+2023,Symfony,1230,Web Frameworks
+2023,OpenShift,1164,Platforms
+2023,NET MAUI,1152,Frameworks
+2023,Tauri,1151,Frameworks
+2023,Deno,1139,other
+2023,Objective-C,1107,Programming Language
+2023,Snowflake,1094,Databases
+2023,Hadoop,1089,Tools
+2023,Ninja,1087,Tools
+2023,RStudio,1075,Tools
+2023,Gatsby,1068,other
+2023,Code::Blocks,1051,Tools
+2023,Fleet,1048,Tools
+2023,Oracle Cloud Infrastructure (OCI,1047,Platforms
+2023,Elixir,1037,Programming Language
+2023,Fastify,1002,Web Frameworks
+2023,Neo4J,992,Databases
+2023,Capacitor,983,Frameworks
+2023,Qt Creator,983,Tools
+2023,Perl,951,Programming Language
+2023,Fly.io,937,Platforms
+2023,GTK,907,Frameworks
+2023,Delphi,855,other
+2023,Haskell,839,Programming Language
+2023,IBM DB2,819,Databases
+2023,Vultr,807,Platforms
+2023,Drupal,766,other
+2023,Phoenix,763,Web Frameworks
+2023,Solr,759,other
+2023,Render,758,Platforms
+2023,Google Test,757,Tools
+2023,Nix,748,Tools
+2023,Solidity,742,Programming Language
+2023,CodeIgniter,716,Web Frameworks
+2023,GDScript,697,Programming Language
+2023,OpenStack,690,other
+2023,Couch DB,643,Databases
+2023,Solid.js,630,Web Frameworks
+2023,Quarkus,618,Web Frameworks
+2023,Kate,610,Tools
+2023,Spyder,606,Tools
+2023,RubyMine,600,Tools
+2023,Helix,592,Tools
+2023,F#,591,Programming Language
+2023,Lisp,586,Programming Language
+2023,Puppet,562,Tools
+2023,Remix,557,Web Frameworks
+2023,IBM Cloud Or Watson,546,Platforms
+2023,Cockroachdb,545,Databases
+2023,Rad Studio (Delphi,503,Tools
+2023,C++ Builder,503,Tools
+2023,Clojure,502,Programming Language
+2023,Ktor,501,Web Frameworks
+2023,Chef,484,Tools
+2023,Clickhouse,478,Databases
+2023,Erlang,470,Programming Language
+2023,QMake,465,Tools
+2023,Firebird,456,Databases
+2023,Meson,450,Tools
+2023,Pulumi,437,Tools
+2023,Bun,435,Tools
+2023,Prolog,432,Programming Language
+2023,Dagger,427,Tools
+2023,JAX,419,Libraries
+2023,Julia,410,Programming Language
+2023,Couchbase,410,Databases
+2023,Tidyverse,405,Libraries
+2023,Scaleway,400,Platforms
+2023,Geany,386,Tools
+2023,Play Framework,358,Web Frameworks
+2023,MFC,352,Libraries
+2023,Micronaut,351,Web Frameworks
+2023,BBEdit,345,Tools
+2023,Zig,339,other
+2023,TextMate,338,Tools
+2023,Fortran,338,Programming Language
+2023,Elm,332,Programming Language
+2023,Colocation,325,Platforms
+2023,DuckDB,308,Databases
+2023,Lit,300,Web Frameworks
+2023,Wasmer,288,Tools
+2023,Cobol,281,Programming Language
+2023,Apex,264,Programming Language
+2023,Micro,263,Tools
+2023,Ada,262,Programming Language
+2023,Qwik,255,Web Frameworks
+2023,OCaml,244,Programming Language
+2023,Crystal,226,Programming Language
+2023,Uno Platform,226,Frameworks
+2023,bandit,206,Tools
+2023,SAS,199,Programming Language
+2023,doctest,189,Tools
+2023,RavenDB,187,Databases
+2023,Catch2,185,Tools
+2023,Nim,178,Programming Language
+2023,cppunit,159,Tools
+2023,Boost.Test,152,Libraries
+2023,SCons,151,Tools
+2023,Datomic,131,Databases
+2023,Nova,128,Tools
+2023,Flow,121,other
+2023,APL,116,Programming Language
+2023,condo,104,other
+2023,TiDB,99,Databases
+2023,build2,94,Tools
+2023,Raku,67,Programming Language
+2023,tunit,53,Tools
+2023,ELFspy,39,Tools
+2023,snitch,39,Tools
+2023,lest,37,Tools
+2023,CUTE,36,Tools
+2023,liblittletest,31,Tools
