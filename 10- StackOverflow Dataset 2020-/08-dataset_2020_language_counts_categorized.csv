@@ -1,0 +1,91 @@
+Year,Language,Count,Category
+2020,JavaScript,25890,Programming Language
+2020,HTML/CSS,23362,Markup Language
+2020,SQL,20511,Programming Language
+2020,Node.js,18094,Platforms
+2020,Windows,17479,Platforms
+2020,MySQL,17462,Databases
+2020,Linux,17301,Platforms
+2020,Python,13997,Programming Language
+2020,jQuery,13711,Libraries
+2020,C#,13363,Programming Language
+2020,Docker,13141,Tools
+2020,Java,12830,Programming Language
+2020,Microsoft SQL Server,12329,Databases
+2020,PostgreSQL,12139,Databases
+2020,React.js,12045,Web Frameworks
+2020,TypeScript,11477,Programming Language
+2020,Bash/Shell/PowerShell,11403,Scripting Language
+2020,NET,11208,Frameworks
+2020,MongoDB,10355,Databases
+2020,AWS,10307,Platforms
+2020,SQLite,10184,Databases
+2020,PHP,9610,Programming Language
+2020,NET Core,9164,Frameworks
+2020,Android,9089,Platforms
+2020,ASP.NET,8541,Web Frameworks
+2020,Angular,8537,Web Frameworks
+2020,Express,8122,Web Frameworks
+2020,MacOS,8115,Platforms
+2020,ASP.NET Core,7573,Web Frameworks
+2020,Redis,6937,Databases
+2020,C++,6910,Programming Language
+2020,Microsoft Azure,6340,Platforms
+2020,C,6296,Programming Language
+2020,Vue.js,5802,Web Frameworks
+2020,MariaDB,5710,Databases
+2020,Angular.js,5569,Web Frameworks
+2020,Google Cloud Platform,5457,Platforms
+2020,WordPress,5284,Tools
+2020,Raspberry Pi,5247,Platforms
+2020,Firebase,5177,Tools
+2020,Oracle,5115,Databases
+2020,Elasticsearch,5074,Databases
+2020,Flask,4794,Web Frameworks
+2020,Heroku,4733,Platforms
+2020,Spring,4646,Frameworks
+2020,Django,4489,Web Frameworks
+2020,Kubernetes,4402,Tools
+2020,Pandas,4267,Libraries
+2020,iOS,4134,Platforms
+2020,React Native,4100,Tools
+2020,Arduino,3589,Platforms
+2020,Laravel,3377,Web Frameworks
+2020,Go,3316,Programming Language
+2020,TensorFlow,3285,Libraries
+2020,Unity 3D,3101,Frameworks
+2020,Slack Apps and Integrations,2930,Tools
+2020,DynamoDB,2721,Databases
+2020,Ruby,2646,Programming Language
+2020,Kotlin,2555,Programming Language
+2020,Ansible,2345,Tools
+2020,Flutter,2287,Frameworks
+2020,Cordova,2214,Frameworks
+2020,VBA,2159,Programming Language
+2020,Ruby on Rails,2134,Web Frameworks
+2020,Teraform,2015,other
+2020,Xamarin,1989,Frameworks
+2020,Assembly,1932,Programming Language
+2020,Swift,1793,Programming Language
+2020,Keras,1706,Libraries
+2020,R,1698,Programming Language
+2020,Dart,1657,Programming Language
+2020,Rust,1592,Programming Language
+2020,Apache Spark,1546,Tools
+2020,Gatsby,1410,Web Frameworks
+2020,Symfony,1384,Web Frameworks
+2020,Hadoop,1334,Tools
+2020,Scala,1263,Programming Language
+2020,Objective-C,1262,Programming Language
+2020,Torch/PyTorch,1248,Libraries
+2020,Cassandra,1150,Databases
+2020,Drupal,1014,Web Frameworks
+2020,Perl,987,Programming Language
+2020,Unreal Engine,929,Frameworks
+2020,IBM DB2,879,Databases
+2020,Puppet,766,Tools
+2020,Couchbase,727,Databases
+2020,Haskell,715,Programming Language
+2020,IBM Cloud or Watson,648,Platforms
+2020,Chef,606,Tools
+2020,Julia,254,Programming Language
