@@ -1,0 +1,126 @@
+Year,Language,Count,Category
+2021,Git,24400,Tools
+2021,Visual Studio Code,21453,Tools
+2021,JavaScript,20843,Programming Language
+2021,HTML/CSS,17635,Markup Language
+2021,SQL,15969,Programming Language
+2021,Docker,15127,Tools
+2021,Python,14306,Programming Language
+2021,AWS,13911,Platforms
+2021,MySQL,13853,Databases
+2021,Node.js,12897,Platforms
+2021,Visual Studio,12455,Tools
+2021,PostgreSQL,12051,Databases
+2021,C#,12028,Programming Language
+2021,React.js,12002,Web Frameworks
+2021,TypeScript,11846,Programming Language
+2021,Microsoft Azure,10773,Platforms
+2021,Microsoft SQL Server,10240,Databases
+2021,SQLite,10235,Databases
+2021,Java,10005,Programming Language
+2021,jQuery,9755,Libraries
+2021,MongoDB,9704,Databases
+2021,NET Core / .NET 5,9565,Frameworks
+2021,NET Framework,9269,Frameworks
+2021,Notepad++,9197,Tools
+2021,Google Cloud Platform,8874,Platforms
+2021,Android Studio,8701,Tools
+2021,IntelliJ,8355,Tools
+2021,NumPy,8194,Libraries
+2021,ASP.NET Core,8075,Frameworks
+2021,Bash/Shell,7829,Scripting Language
+2021,Express,7610,Web Frameworks
+2021,Angular,7450,Web Frameworks
+2021,Pandas,7355,Libraries
+2021,Heroku,7086,Platforms
+2021,PHP,6943,Programming Language
+2021,Redis,6938,Databases
+2021,Vim,6789,Tools
+2021,C++,6724,Programming Language
+2021,ASP.NET,6543,Frameworks
+2021,PyCharm,6436,Tools
+2021,Sublime Text,6304,Tools
+2021,Firebase,6245,Databases
+2021,Yarn,6235,Tools
+2021,C,5850,Programming Language
+2021,Flask,5777,Web Frameworks
+2021,Kubernetes,5699,Tools
+2021,Vue.js,5473,Web Frameworks
+2021,React Native,5443,Frameworks
+2021,DigitalOcean,5019,Platforms
+2021,MariaDB,4981,Databases
+2021,Django,4929,Web Frameworks
+2021,IPython/Jupyter,4801,Tools
+2021,Eclipse,4777,Tools
+2021,PowerShell,4708,Scripting Language
+2021,TensorFlow,4582,Libraries
+2021,Elasticsearch,4426,Databases
+2021,Xcode,4397,Tools
+2021,Flutter,4248,Frameworks
+2021,Atom,4092,Tools
+2021,Angular.js,3987,Web Frameworks
+2021,Oracle,3614,Databases
+2021,Spring,3454,Frameworks
+2021,Go,3287,Programming Language
+2021,Unity 3D,3155,Frameworks
+2021,Webstorm,3135,Tools
+2021,Dart,3016,Programming Language
+2021,Laravel,2816,Web Frameworks
+2021,DynamoDB,2772,Databases
+2021,Keras,2732,Libraries
+2021,Kotlin,2681,Programming Language
+2021,Torch/PyTorch,2647,Libraries
+2021,NetBeans,2594,Tools
+2021,Terraform,2561,Tools
+2021,Cordova,2557,Frameworks
+2021,PHPStorm,2404,Tools
+2021,Ansible,2140,Tools
+2021,Qt,2079,Frameworks
+2021,Rider,2048,Tools
+2021,Ruby,1947,Programming Language
+2021,Xamarin,1911,Frameworks
+2021,Rust,1865,Programming Language
+2021,Apache Spark,1781,Frameworks
+2021,Swift,1714,Programming Language
+2021,Assembly,1677,Programming Language
+2021,Ruby on Rails,1676,Web Frameworks
+2021,R,1598,Programming Language
+2021,VBA,1586,Programming Language
+2021,FastAPI,1533,Web Frameworks
+2021,Matlab,1438,Programming Language
+2021,Hadoop,1374,Frameworks
+2021,Neovim,1358,Tools
+2021,Gatsby,1324,Web Frameworks
+2021,RStudio,1262,Tools
+2021,Emacs,1237,Tools
+2021,Unreal Engine,1103,Frameworks
+2021,Objective-C,1011,Programming Language
+2021,Symfony,996,Web Frameworks
+2021,Cassandra,954,Databases
+2021,Scala,925,Programming Language
+2021,Groovy,893,Programming Language
+2021,Svelte,875,Web Frameworks
+2021,IBM Cloud or Watson,822,Platforms
+2021,Drupal,733,Frameworks
+2021,Perl,698,Programming Language
+2021,Puppet,626,Tools
+2021,Haskell,622,Programming Language
+2021,IBM DB2,605,Databases
+2021,Couchbase,582,Databases
+2021,Deno,572,Platforms
+2021,Oracle Cloud Infrastructure,533,Platforms
+2021,Flow,528,Programming Language
+2021,Delphi,528,Programming Language
+2021,Elixir,527,Programming Language
+2021,F#,500,Programming Language
+2021,Chef,492,Tools
+2021,RubyMine,491,Tools
+2021,Clojure,429,Programming Language
+2021,LISP,392,Programming Language
+2021,Julia,329,Programming Language
+2021,TextMate,295,Tools
+2021,Erlang,261,Programming Language
+2021,Pulumi,217,Tools
+2021,COBOL,196,Programming Language
+2021,Crystal,175,Programming Language
+2021,APL,167,Programming Language
