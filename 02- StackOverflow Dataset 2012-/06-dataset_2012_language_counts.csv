@@ -1,0 +1,416 @@
+Year,Language,Count
+2012,SQL,3295
+2012,JavaScript,3128
+2012,CSS,2825
+2012,C#,2470
+2012,Java,2350
+2012,HTML5,2155
+2012,PHP,1926
+2012,C++,1529
+2012,C,1486
+2012,Python,1212
+2012,Objective-C,606
+2012,Ruby,578
+2012,Perl,463
+2012,Delphi,63
+2012,VB.NET,42
+2012,Haskell,40
+2012,VB,29
+2012,Scala,29
+2012,Groovy,25
+2012,R,21
+2012,Lua,20
+2012,Visual Basic,19
+2012,F#,17
+2012,ActionScript,17
+2012,vb.net,16
+2012,VB6,14
+2012,VBA,14
+2012,ColdFusion,14
+2012,VB.Net,13
+2012,Bash,13
+2012,Clojure,13
+2012,Matlab,12
+2012,Pascal,10
+2012,PL/SQL,10
+2012,Scheme,9
+2012,scala,9
+2012,Prolog,8
+2012,Coldfusion,8
+2012,bash,8
+2012,MATLAB,8
+2012,groovy,7
+2012,Actionscript,7
+2012,actionscript,7
+2012,shell,7
+2012,Erlang,7
+2012,ActionScript 3,7
+2012,haskell,7
+2012,VB.net,6
+2012,Assembly,6
+2012,Flex,6
+2012,Powershell,6
+2012,VBScript,6
+2012,Mathematica,6
+2012,None,6
+2012,Lisp,6
+2012,Common Lisp,6
+2012,Fortran,6
+2012,XSL,5
+2012,Go,5
+2012,LISP,5
+2012,ASP,5
+2012,Smalltalk,5
+2012,clojure,5
+2012,Ada,5
+2012,lua,4
+2012,android,4
+2012,XAML,4
+2012,CoffeeScript,4
+2012,coldfusion,4
+2012,lisp,4
+2012,VHDL,4
+2012,XML,4
+2012,Android,4
+2012,vb,4
+2012,BASIC,4
+2012,vba,3
+2012,delphi,3
+2012,asp,3
+2012,jquery,3
+2012,CUDA,3
+2012,Brainfuck,3
+2012,erlang,3
+2012,ASP.NET,3
+2012,fortran,3
+2012,HTML,3
+2012,XSLT,3
+2012,LabVIEW,3
+2012,D,3
+2012,Cobol,3
+2012,Django,2
+2012,Visual Basic .NET,2
+2012,Assembler,2
+2012,jQuery,2
+2012,AS3,2
+2012,VB .NET,2
+2012,RPG,2
+2012,Grails,2
+2012,TeX,2
+2012,prolog,2
+2012,Visual Dataflex,2
+2012,XHTML,2
+2012,Actionscript 3,2
+2012,TCL,2
+2012,FORTRAN,2
+2012,pascal,2
+2012,Vb.net,2
+2012,Verilog,2
+2012,tcl,2
+2012,assembly,2
+2012,PowerShell,2
+2012,Tcl,2
+2012,powershell,2
+2012,plpgsql,2
+2012,SML,2
+2012,SAS,2
+2012,OCaml,2
+2012,Forth,2
+2012,NET,2
+2012,Shell,2
+2012,smalltalk,2
+2012,Object Pascal,2
+2012,mysql,2
+2012,xpath,2
+2012,LaTeX,2
+2012,xhtml,2
+2012,x86 assembly,2
+2012,COBOL,2
+2012,COBOL (:-,1
+2012,classic ASP,1
+2012,ARM,1
+2012,Powerbuilder,1
+2012,ASM (x86,1
+2012,Moscow ML,1
+2012,assembler,1
+2012,Turbo Pascal,1
+2012,Node,1
+2012,Basic,1
+2012,Tcl/Tk Elisp,1
+2012,SPSS,1
+2012,WPF ASP.Net,1
+2012,unix scripting,1
+2012,asm 6502,1
+2012,bash/awk/unix toolkit,1
+2012,68HC11,1
+2012,PPC,1
+2012,Befunge,1
+2012,Standard ML,1
+2012,PL/SQL VB.NET,1
+2012,Node.JS,1
+2012,É,1
+2012,x86,1
+2012,cobol,1
+2012,asm,1
+2012,hlsl,1
+2012,puppet,1
+2012,ASP.NET 4 (VB.NET,1
+2012,Openedge ABL,1
+2012,asp.net ajax,1
+2012,Visual Basic for Applications,1
+2012,your mom,1
+2012,AppleScript,1
+2012,asm x86,1
+2012,LabView,1
+2012,xaml,1
+2012,asm64,1
+2012,go,1
+2012,VB6 baby!,1
+2012,"ASP.net,ASp.net MVC",1
+2012,Lua Fortran,1
+2012,"R,MATLAB",1
+2012,GW-BASIC,1
+2012,many more,1
+2012,Maxscript,1
+2012,JSP,1
+2012,Learning C/C++,1
+2012,so please add to the list,1
+2012,donno if I'm proficient yet,1
+2012,VBA! F# Excel,1
+2012,HTML xslt,1
+2012,WPF,1
+2012,http://en.wikipedia.org/wiki/LINC_4GL,1
+2012,Groovy (GRAILS framework,1
+2012,HQL,1
+2012,ActionScript 2,1
+2012,Erlang/OTP,1
+2012,just as good as C#,1
+2012,AU3,1
+2012,flex,1
+2012,coffeescript,1
+2012,Salesforce Apex,1
+2012,mongodb,1
+2012,Structured Query Reporting (SQR,1
+2012,HLSL,1
+2012,Excel/VBA,1
+2012,Soar,1
+2012,as3,1
+2012,TeX/LaTeX,1
+2012,et.c,1
+2012,CListCtrl,1
+2012,common lisp,1
+2012,Assembler (x86 16/32bit,1
+2012,m68k,1
+2012,"Flex,ActionScript",1
+2012,z80,1
+2012,Visual basic,1
+2012,MATLAB/Octave,1
+2012,baby!,1
+2012,Self,1
+2012,CoffeScript,1
+2012,Ragel,1
+2012,mxml,1
+2012,And more,1
+2012,"couchdb,javascript",1
+2012,eDeveloper/uniPaaS,1
+2012,FORTRAN II,1
+2012,Action script,1
+2012,various shells,1
+2012,ASP Classic,1
+2012,Pascal (Delphi,1
+2012,learning Haskell,1
+2012,Nemerle,1
+2012,no,1
+2012,Fortan,1
+2012,Rebol,1
+2012,ABAP,1
+2012,Apex (force.com,1
+2012,ActionScript / Flash,1
+2012,English,1
+2012,Greek,1
+2012,Several others,1
+2012,Object Pascal (Delphi,1
+2012,etc,1
+2012,Cold Fusion,1
+2012,qml,1
+2012,excel vba,1
+2012,emacs-lisp,1
+2012,IBM z/Assembler,1
+2012,NodeJS,1
+2012,Apl,1
+2012,Visual FoxPro,1
+2012,Objective C,1
+2012,non,1
+2012,ChaiScript,1
+2012,viva los monos,1
+2012,Scheme/Racket,1
+2012,Squirrel,1
+2012,FileMaker,1
+2012,silverlight,1
+2012,PL/1,1
+2012,VBA for MS Office!,1
+2012,Visual Studio .Net MVC 3,1
+2012,Batch,1
+2012,VB .Net,1
+2012,Visual Basic 6,1
+2012,ActionScript 2/3,1
+2012,XTEND,1
+2012,ATL,1
+2012,verilog,1
+2012,Coffeescript,1
+2012,VB.NET XAML,1
+2012,J,1
+2012,Jquery,1
+2012,C derivatives (C,1
+2012,Labview,1
+2012,Vb.Net,1
+2012,Shell scripting,1
+2012,HTML/XML,1
+2012,QML,1
+2012,AutoIT,1
+2012,AS2,1
+2012,ActionScript3,1
+2012,DELPHI,1
+2012,tcl/tk,1
+2012,HTML4 ;-,1
+2012,Assembler (ARM,1
+2012,CFML,1
+2012,scala r,1
+2012,Omnis Studio,1
+2012,Action Script (Flex dev,1
+2012,NASM,1
+2012,Node.js,1
+2012,Redis,1
+2012,Awesomeness,1
+2012,ASP.Net,1
+2012,struts2,1
+2012,ElasticSearch,1
+2012,"Delphi,COBOL,VBScript",1
+2012,vb6 vb.net,1
+2012,Pawn,1
+2012,xsl,1
+2012,Google Go,1
+2012,MS Access VBA (I've made some poor choices in life,1
+2012,vhdl,1
+2012,SkookumScript,1
+2012,none,1
+2012,Intel x86 Assembly,1
+2012,Cocoa,1
+2012,VFP,1
+2012,Action Script 3.0,1
+2012,To many to count,1
+2012,prolog scheme x86 asm,1
+2012,Max MSP,1
+2012,Racket,1
+2012,xquery,1
+2012,unix shell,1
+2012,68k Assembly,1
+2012,Coffescript,1
+2012,emacs lisp,1
+2012,bin/sh,1
+2012,Android SDK,1
+2012,JQuery,1
+2012,Lots,1
+2012,Mel,1
+2012,Classic-ASP,1
+2012,and a few others.  So I can't say I'm proficient in any,1
+2012,Learning PHP,1
+2012,Asp.net,1
+2012,vb6,1
+2012,ASCET,1
+2012,mIRC Scripting Language,1
+2012,Other (please specify,1
+2012,haml,1
+2012,sass,1
+2012,that sort of thing,1
+2012,matlab,1
+2012,XUL,1
+2012,Phrogram,1
+2012,BASIC (LIKE EVERYONE ELSE,1
+2012,VB and I'll kick your ass in FORTRAN,1
+2012,vhvhv,1
+2012,XHTML Strict,1
+2012,pl/sql,1
+2012,Actionscript 1/2/3,1
+2012,Visual Studio 6.0,1
+2012,FourJs,1
+2012,RPG-400,1
+2012,fortran forth pl1 ada pascal delphi dbl dibol bliss z80 68000,1
+2012,HTML 4,1
+2012,DM,1
+2012,POWERSCRIPT,1
+2012,PIC,1
+2012,and Emacs Lisp,1
+2012,octave,1
+2012,Delphi (/pascal); ASP(.NET,1
+2012,VBscript,1
+2012,Unix and Batch scripting,1
+2012,ARM Assembly,1
+2012,Classic ASP (VBScript,1
+2012,all languages,1
+2012,CoffeesScript,1
+2012,haXe FTW !,1
+2012,Action Script,1
+2012,Scilab,1
+2012,Isabelle/HOL,1
+2012,bash script,1
+2012,ADA 95,1
+2012,Visual Basic.Net,1
+2012,"HTML,VB6",1
+2012,Pl/sql,1
+2012,Processing,1
+2012,ARM7,1
+2012,Max/MSP/Jitter,1
+2012,Coq,1
+2012,Qt,1
+2012,asp.net,1
+2012,python,1
+2012,c#,1
+2012,"html...?  Those are not ""languages""!  The only people who refer to those as languages are people who arent smart enough to learn a real language",1
+2012,css,1
+2012,js,1
+2012,Google App Engine,1
+2012,Informix 4GL,1
+2012,"actionscript-3,processing,max-msp",1
+2012,pike,1
+2012,SH,1
+2012,plsql (Oracle,1
+2012,AutoHotkey,1
+2012,UniQuery,1
+2012,UniBasic,1
+2012,Nodejs,1
+2012,Rexx,1
+2012,fuck you for having so few countries on the 1st page. fuck you,1
+2012,jquery :P (just love it,1
+2012,Progress 4GL,1
+2012,Visual Basic.NET,1
+2012,Flex/Actionscript,1
+2012,Visual Basic Dot Net,1
+2012,xslt,1
+2012,Asp.Net,1
+2012,COFFEESCRIPT,1
+2012,x++,1
+2012,MVC,1
+2012,liso,1
+2012,MIPS and other RISC assembly,1
+2012,X86 and X64 assembly,1
+2012,AVR32,1
+2012,Magento,1
+2012,ActionSctip2/3,1
+2012,PowerBuilder,1
+2012,russian,1
+2012,VB9,1
+2012,ASP/VBScript,1
+2012,Progress OpenEdge,1
+2012,openxml-sdk,1
+2012,Functional prg. languages,1
+2012,Various assembler's languages,1
+2012,english,1
+2012,Racket / Scheme,1
+2012,-,1
+2012,Silverlight,1
+2012,troll,1
+2012,esparanto,1
+2012,IDL,1
+2012,NET/ASP.NET,1
+2012,REXX,1
