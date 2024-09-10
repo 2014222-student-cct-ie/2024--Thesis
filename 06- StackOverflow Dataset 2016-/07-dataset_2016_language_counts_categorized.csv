@@ -1,0 +1,42 @@
+Year,Language,Count,Category
+2016,JavaScript,27385,Programming Language
+2016,SQL,21976,Scripting Language
+2016,Java,17942,Programming Language
+2016,C#,15283,Programming Language
+2016,PHP,12780,Programming Language
+2016,Python,12282,Programming Language
+2016,C++,9589,Programming Language
+2016,SQL Server,9306,Databases
+2016,AngularJS,8823,Web Frameworks
+2016,Android,8601,Platforms
+2016,Node.js,8509,Frameworks
+2016,C,7678,Programming Language
+2016,LAMP,4821,Frameworks
+2016,MongoDB,4780,Databases
+2016,"Cloud (AWS, Google App Engine (GAE), Azure, ",4629,Platforms
+2016,iOS,4498,Platforms
+2016,WordPress,4496,other
+2016,Ruby,4383,Programming Language
+2016,Arduino / Raspberry Pi,3797,Tools
+2016,Visual Basic,3312,Programming Language
+2016,Objective-C,3202,Programming Language
+2016,Redis,2862,Databases
+2016,Swift,2746,Programming Language
+2016,ReactJS,2541,Web Frameworks
+2016,CoffeeScript,1662,Programming Language
+2016,Cordova,1651,Frameworks
+2016,R,1632,Programming Language
+2016,Perl,1624,Programming Language
+2016,Matlab,1602,Programming Language
+2016,Scala,1602,Programming Language
+2016,Go,1547,Programming Language
+2016,Windows Phone,1123,Platforms
+2016,"Hadoop, SharePoint",1012,other
+2016,Haskell,813,Programming Language
+2016,Spark,707,Tools
+2016,Salesforce,665,Platforms
+2016,Cassandra,663,Databases
+2016,Clojure,556,Programming Language
+2016,F#,484,Programming Language
+2016,Rust,436,Programming Language
+2016,Dart,222,Programming Language
