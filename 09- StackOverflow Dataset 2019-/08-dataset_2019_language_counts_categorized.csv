@@ -1,0 +1,88 @@
+Year,Language,Count,Category
+2019,JavaScript,37802,Programming Language
+2019,HTML/CSS,34521,Markup Language
+2019,SQL,29885,Programming Language
+2019,Node.js,25254,Frameworks
+2019,Windows,24702,Platforms
+2019,MySQL,24521,Databases
+2019,Linux,24235,Platforms
+2019,jQuery,21948,Libraries
+2019,C#,19823,Programming Language
+2019,Python,19281,Programming Language
+2019,Java,18839,Programming Language
+2019,Bash/Shell/PowerShell,18510,Scripting Language
+2019,Microsoft SQL Server,18077,Databases
+2019,Docker,17364,Tools
+2019,NET,17262,other
+2019,PostgreSQL,16712,Databases
+2019,React.js,15384,Web Frameworks
+2019,Angular/Angular.js,15246,Web Frameworks
+2019,ASP.NET,15078,Web Frameworks
+2019,SQLite,14963,Databases
+2019,AWS,14955,Platforms
+2019,MongoDB,14669,Databases
+2019,TypeScript,14451,Programming Language
+2019,PHP,13952,Programming Language
+2019,Android,13519,Platforms
+2019,Other(s,12620,other
+2019,NET Core,11798,other
+2019,Slack,11583,Tools
+2019,MacOS,11209,Platforms
+2019,Express,11145,Web Frameworks
+2019,Redis,10394,Databases
+2019,C++,9720,Programming Language
+2019,C,8495,Programming Language
+2019,MariaDB,8157,Databases
+2019,Microsoft Azure,7993,Platforms
+2019,Raspberry Pi,7854,Platforms
+2019,WordPress,7675,Tools
+2019,Elasticsearch,7663,Databases
+2019,Vue.js,7425,Web Frameworks
+2019,Oracle,7286,Databases
+2019,Google Cloud Platform,7065,Platforms
+2019,Firebase,6673,Platforms
+2019,iOS,6530,Platforms
+2019,Heroku,6498,Platforms
+2019,Spring,6381,Web Frameworks
+2019,Flask,5969,Web Frameworks
+2019,Django,5908,Web Frameworks
+2019,React Native,5412,Frameworks
+2019,Arduino,5236,Platforms
+2019,Pandas,4986,Libraries
+2019,Kubernetes,4899,Tools
+2019,Go,4706,Programming Language
+2019,Ruby,4577,Programming Language
+2019,Unity 3D,4560,Frameworks
+2019,Laravel,4559,Web Frameworks
+2019,Ansible,4395,Tools
+2019,TensorFlow,4185,Libraries
+2019,Cordova,3778,Tools
+2019,Ruby on Rails,3567,Web Frameworks
+2019,DynamoDB,3502,Databases
+2019,Xamarin,3134,Frameworks
+2019,Kotlin,2982,Programming Language
+2019,Assembly,2965,Programming Language
+2019,Swift,2913,Programming Language
+2019,VBA,2823,Scripting Language
+2019,Apache Spark,2475,Tools
+2019,R,2428,Programming Language
+2019,Objective-C,2178,Programming Language
+2019,Hadoop,2077,Tools
+2019,Scala,1991,Programming Language
+2019,Cassandra,1760,Databases
+2019,Drupal,1575,other
+2019,Rust,1564,Programming Language
+2019,Flutter,1560,Frameworks
+2019,Unreal Engine,1415,Frameworks
+2019,Torch/PyTorch,1293,Libraries
+2019,Puppet,1280,Tools
+2019,Dart,1241,Programming Language
+2019,Chef,1209,Tools
+2019,Couchbase,1164,Databases
+2019,IBM Cloud or Watson,1077,Platforms
+2019,Elixir,888,other
+2019,WebAssembly,767,Tools
+2019,F#,753,Programming Language
+2019,Clojure,744,Programming Language
+2019,Erlang,523,Programming Language
+2019,CryEngine,264,Frameworks
