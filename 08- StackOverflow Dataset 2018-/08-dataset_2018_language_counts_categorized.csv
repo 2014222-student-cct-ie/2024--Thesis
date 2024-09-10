@@ -1,0 +1,98 @@
+Year,Language,Count,Category
+2018,JavaScript,35016,Programming Language
+2018,HTML,33187,Markup Language
+2018,CSS,32092,Markup Language
+2018,SQL,28310,Scripting Language
+2018,MySQL,25499,Databases
+2018,Node.js,21999,Frameworks
+2018,Java,21370,Programming Language
+2018,Linux,21311,Platforms
+2018,Bash/Shell,19539,Scripting Language
+2018,SQL Server,18562,Databases
+2018,Python,17971,Programming Language
+2018,C#,17812,Programming Language
+2018,Angular,16220,Web Frameworks
+2018,PostgreSQL,15855,Databases
+2018,Windows Desktop or Server,15069,Platforms
+2018,PHP,14823,Programming Language
+2018,MongoDB,13819,Databases
+2018,Android,13131,Platforms
+2018,AWS,12951,Platforms
+2018,NET Core,12072,other
+2018,React,12034,Web Frameworks
+2018,TypeScript,10758,Programming Language
+2018,C++,10319,Programming Language
+2018,C,9433,Programming Language
+2018,Redis,9363,Databases
+2018,SQLite,8862,Databases
+2018,Mac OS,8351,Platforms
+2018,Spring,7611,Web Frameworks
+2018,WordPress,7517,Web Frameworks
+2018,Raspberry Pi,7483,Tools
+2018,Elasticsearch,7184,Tools
+2018,Firebase,6925,Tools
+2018,iOS,6821,Platforms
+2018,Azure,6188,Platforms
+2018,MariaDB,6054,Databases
+2018,Django,5892,Web Frameworks
+2018,Heroku,5878,Platforms
+2018,Ruby,5183,Programming Language
+2018,Oracle,4885,Databases
+2018,Arduino,4754,Tools
+2018,Google Cloud Platform/App Engine,4217,Platforms
+2018,Microsoft Azure,4173,other
+2018,Cordova,3957,Web Frameworks
+2018,Go,3903,Programming Language
+2018,Swift,3531,Programming Language
+2018,VB.NET,3512,Programming Language
+2018,Xamarin,3408,Web Frameworks
+2018,TensorFlow,3200,Libraries
+2018,Assembly,3090,Programming Language
+2018,Objective-C,3074,Programming Language
+2018,Amazon DynamoDB,2931,Databases
+2018,Memcached,2770,Databases
+2018,Amazon RDS/Aurora,2734,Databases
+2018,Google Cloud Storage,2730,Platforms
+2018,R,2676,Programming Language
+2018,Serverless,2649,Frameworks
+2018,Scala,2491,Programming Language
+2018,Matlab,2457,Programming Language
+2018,Groovy,2319,Programming Language
+2018,Kotlin,2198,Programming Language
+2018,Hadoop,2157,Tools
+2018,VBA,2153,Scripting Language
+2018,Spark,2146,Tools
+2018,Visual Basic 6,1953,Programming Language
+2018,CoffeeScript,1921,Programming Language
+2018,Cassandra,1910,Databases
+2018,Perl,1866,Programming Language
+2018,Lua,1723,Programming Language
+2018,Amazon Echo,1578,Platforms
+2018,Drupal,1489,Tools
+2018,Windows Phone,1415,Platforms
+2018,SharePoint,1410,Platforms
+2018,Neo4j,1275,Databases
+2018,Haskell,1216,Programming Language
+2018,Apache Hive,1172,Tools
+2018,IBM Db2,1161,Databases
+2018,Rust,1155,Programming Language
+2018,Amazon Redshift,1153,Databases
+2018,Salesforce,1140,Platforms
+2018,Delphi/Object Pascal,1092,Programming Language
+2018,Google BigQuery,1074,Databases
+2018,ESP8266,1040,Tools
+2018,Apache HBase,879,Databases
+2018,F#,810,Programming Language
+2018,IBM Cloud or Watson,800,Platforms
+2018,Apple Watch or Apple TV,759,Platforms
+2018,Clojure,719,Programming Language
+2018,Torch/PyTorch,688,Libraries
+2018,Google Home,674,Platforms
+2018,Erlang,631,Programming Language
+2018,Gaming console,546,Platforms
+2018,Mainframe,362,Platforms
+2018,Cobol,362,Programming Language
+2018,Ocaml,298,Programming Language
+2018,Julia,233,Programming Language
+2018,Hack,159,Programming Language
+2018,Predix,93,Platforms
